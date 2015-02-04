@@ -1,0 +1,2447 @@
+msgid "Welcome to"
+msgstr "Welkom bij"
+
+msgid "Discover amazing stuff, collect the things you love, buy it all in one place."
+msgstr "Ontdek prachtige dingen, het verzamelen van de dingen die je liefde, koop het allemaal op een plek."
+
+msgid "Sign Up"
+msgstr "Registreren"
+
+
+msgid "Join"
+msgstr "Toetreden tot"
+
+msgid "join"
+msgstr "toetreden tot"
+
+msgid "today"
+msgstr "vandaag"
+
+msgid "Have an account?"
+msgstr "Heb je al een account?"
+
+
+msgid "Login"
+msgstr "Login"
+
+
+
+msgid "Learn more"
+msgstr "Meer informatie"
+
+msgid "Search"
+msgstr "Zoeken"
+
+
+msgid "Sign In"
+msgstr "Aanmelden"
+
+
+msgid "Sign in to "
+msgstr "Meld u aan om"
+
+
+
+msgid "Forgot password?"
+msgstr "Wachtwoord vergeten?"
+
+msgid "Remember me"
+msgstr "Onthoud mij"
+
+
+msgid "Shop"
+msgstr "Winkel"
+
+
+msgid "By Price"
+msgstr "Op Prijs"
+
+
+
+msgid "By color"
+msgstr "Door kleur"
+
+msgid "Red"
+msgstr "Rood"
+
+
+msgid "Pink"
+msgstr "Roze"
+
+
+msgid "Purple"
+msgstr "Purper"
+
+
+
+msgid "Blue"
+msgstr "Blauw"
+
+msgid "Sky blue"
+msgstr "Sky blue"
+
+
+msgid "Green"
+msgstr "Groen"
+
+
+msgid "Yellow"
+msgstr "Geel"
+
+
+
+msgid "Orange"
+msgstr "Oranje"
+
+msgid "Brown"
+msgstr "Bruin"
+
+
+msgid "Black"
+msgstr "Zwart"
+
+
+msgid "White"
+msgstr "Wit"
+
+
+
+msgid "Silver"
+msgstr "Zilver"
+
+msgid "Gold"
+msgstr "Goud"
+
+
+msgid "By Category"
+msgstr "Op categorie"
+
+
+msgid "Men's"
+msgstr "Heren"
+
+
+
+msgid "Women's"
+msgstr "Vrouwen"
+
+msgid "Home"
+msgstr "Thuis"
+
+
+msgid "Giochi"
+msgstr "Giochi"
+
+
+msgid "Any Category"
+msgstr "Elke categorie"
+
+
+
+msgid "Any Price"
+msgstr "Elke prijs"
+
+msgid "Any Color"
+msgstr "Elke kleur"
+
+
+msgid "Newest"
+msgstr "Nieuwste"
+
+
+msgid "Price: Low to High"
+msgstr " Prijs: laag naar hoog"
+
+
+
+msgid "Price: High to Low"
+msgstr "Prijs: Hoog naar Laag"
+
+msgid "Filter by keyword"
+msgstr "Filter op trefwoord"
+
+
+
+msgid "Powered by"
+msgstr "Aangedreven door"
+
+
+
+msgid "Remember me"
+msgstr "Onthoud mij"
+
+msgid "Notifications"
+msgstr "Bekendmakingen"
+
+
+msgid "Add"
+msgstr "Toevoegen"
+
+
+msgid "Items"
+msgstr "Artikelen"
+
+msgid "Everything"
+msgstr "Alles"
+
+msgid "everything"
+msgstr "alles"
+
+msgid "Classic View"
+msgstr "Classic View"
+
+
+msgid "Grid View"
+msgstr "Grid View"
+
+
+msgid "Compact View"
+msgstr "Compacte weergave"
+
+
+
+msgid "Slideshow View"
+msgstr "Slideshow Bekijken"
+
+msgid "Order from"
+msgstr "Bestel bij"
+
+
+msgid "Ship to"
+msgstr "Verzenden naar"
+
+
+msgid "Gift"
+msgstr "Gift"
+
+
+
+msgid "Remove"
+msgstr "verwijderen"
+
+msgid "Delete this address"
+msgstr "Verwijder dit adres"
+
+
+msgid "Add new shipping address"
+msgstr "Verwijder dit adres"
+
+
+msgid "Shipping"
+msgstr "Scheepvaart"
+
+
+
+msgid "Note to Merchant"
+msgstr "Noot voor de Merchant"
+
+msgid "Optional"
+msgstr "Facultatief"
+
+
+msgid "This item is currently not available."
+msgstr "Dit artikel is momenteel niet beschikbaar."
+
+msgid "You can leave the personalized note here"
+msgstr "U kunt de persoonlijke noot hier laten"
+
+msgid "Order"
+msgstr "Orde"
+
+
+msgid "Item total"
+msgstr "Item totale"
+
+
+msgid "Tax"
+msgstr "Belasting"
+
+msgid "Product"
+msgstr "product"
+
+msgid "Price"
+msgstr "prijs"
+
+
+msgid "Quantity:"
+msgstr "Aantal:"
+
+
+msgid "Total"
+msgstr "Totaal"
+
+
+
+msgid "Cannot Ship this Product to your Location"
+msgstr "Kunnen dit product niet verzenden naar uw Locatie"
+
+msgid "Edit Profile"
+msgstr "Profiel Bewerken"
+
+
+msgid "share profile"
+msgstr "Aandeel profiel"
+
+
+msgid "Find People"
+msgstr "Mensen zoeken"
+
+
+
+msgid "Follow people to discover new things."
+msgstr "Volg mensen om nieuwe dingen te ontdekken."
+
+msgid "Social Networks"
+msgstr "Sociale Netwerken"
+
+
+msgid "Follow"
+msgstr "Volgen"
+
+
+msgid "Suivez sur Twitter"
+msgstr "Suivez sur Twitter"
+
+
+
+msgid "help"
+msgstr "helpen"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+
+msgid "Edit Profile Settings"
+msgstr "Bewerk profiel Instellingen"
+
+
+msgid "ACCOUNT"
+msgstr "ACCOUNT"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Purchases"
+msgstr "Aankopen"
+
+
+msgid "My Orders"
+msgstr "Mijn bestellingen"
+
+
+msgid "Information"
+msgstr "Informatie"
+
+
+
+msgid "Full Name"
+msgstr "Volledige Naam"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+
+msgid "Website"
+msgstr "Website"
+
+
+msgid "Location"
+msgstr "Plaats"
+
+
+
+msgid "Birthday"
+msgstr "Verjaardag"
+
+msgid "About"
+msgstr "Over"
+
+
+msgid "Age"
+msgstr "Leeftijd"
+
+
+msgid "Male"
+msgstr "Mannelijk"
+
+
+
+msgid "Female"
+msgstr "Vrouw"
+
+msgid "Unspecified"
+msgstr "Niet gespecificeerd"
+
+
+msgid "Change image"
+msgstr "Beeld wijzigen"
+
+
+msgid "Photo"
+msgstr "Foto"
+
+
+
+msgid "Existing password"
+msgstr "Bestaande wachtwoord"
+
+msgid "New Password"
+msgstr "Nieuw wachtwoord"
+
+
+msgid "Confirm Password"
+msgstr "Bevestig wachtwoord"
+
+
+msgid "Save Profile"
+msgstr "Save Profile"
+
+
+
+msgid "Deactivate my account"
+msgstr "Mijn account te deactiveren"
+
+
+
+
+msgid "Gender"
+msgstr "Geslacht"
+
+
+msgid "Your real name, so your friends can find you."
+msgstr "Je echte naam, zodat je vrienden kunt vinden."
+
+
+msgid "Write something about yourself."
+msgstr "Schrijf iets over jezelf."
+
+
+
+msgid "We'll send you a surprise on your birthday!"
+msgstr "We zullen je een verrassing te sturen op je verjaardag!"
+
+msgid "Email will not be publicly displayed."
+msgstr "E-mail zal niet openbaar worden weergegeven."
+
+
+msgid "Change Password"
+msgstr "Wachtwoord wijzigen"
+
+
+msgid "New Password"
+msgstr "Nieuw wachtwoord"
+
+
+
+msgid "Confirm Password"
+msgstr "Bevestig wachtwoord"
+
+msgid "New password, at least 6 characters."
+msgstr "Nieuwe wachtwoord minimaal 6 tekens."
+
+
+msgid "Confirm your new password."
+msgstr "Bevestig uw nieuwe wachtwoord."
+
+
+msgid "Existing Password"
+msgstr "Bestaande Wachtwoord"
+
+
+
+msgid "Email settings"
+msgstr "E-mailinstellingen"
+
+msgid "When someone follows you"
+msgstr "Als iemand je volgt"
+
+
+msgid "When someone comments on a thing you added"
+msgstr "Wanneer iemand een reactie op een ding dat je toegevoegd"
+
+
+msgid "When one of your things is featured"
+msgstr "Wanneer een van je spullen wordt gekenmerkt"
+
+
+
+msgid "Web and push settings"
+msgstr "Web-en push-instellingen"
+
+
+
+msgid "Friends activity"
+msgstr "Vrienden activiteit"
+
+
+msgid "When a friend add the items"
+msgstr "Toen een vriend voeg de artikelen"
+
+
+msgid "When a friend posts a comment"
+msgstr "Wanneer een vriend posten een commentaar"
+
+
+
+msgid "Updates from Markit"
+msgstr "Updates van Markit"
+
+msgid "Send news about Markit"
+msgstr "Stuur nieuws over Markit"
+
+
+msgid "Save Changes"
+msgstr "Wijzigingen op te slaan"
+
+
+msgid "MERCHANT"
+msgstr "MERCHANT"
+
+msgid "Merchant Information"
+msgstr "Merchant Information"
+
+
+msgid "Brand"
+msgstr "Merk"
+
+
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+
+msgid "What is it?"
+msgstr "Wat is het?"
+
+
+
+msgid "Select a Category"
+msgstr "Selecteer een categorie"
+
+
+msgid "Upload Photos"
+msgstr "Upload foto's"
+
+
+msgid "Add Photos"
+msgstr "Foto's toevoegen"
+
+msgid "Item Title"
+msgstr "Titel"
+
+
+
+msgid "Item Description"
+msgstr "Item Beschrijving"
+
+
+
+msgid "Which gender the item for ?"
+msgstr "Welk geslacht het item voor?"
+
+
+
+msgid "Relationship"
+msgstr "Verhouding"
+
+
+
+msgid "To whom is it for?"
+msgstr "Aan wie is het?"
+
+
+
+msgid "choose multiple by pressing ctrl"
+msgstr "kiezen meerdere door op ctrl"
+
+
+
+msgid "Price"
+msgstr "Prijs"
+
+
+
+msgid "$ USD"
+msgstr "$ USD"
+
+
+
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+
+
+msgid "Shipping"
+msgstr "Scheepvaart"
+
+
+
+msgid "Options for sizes"
+msgstr "Opties voor maten"
+
+
+
+msgid "Shoes or T-shirts"
+msgstr "Schoenen of T-shirts"
+
+
+
+msgid "optional"
+msgstr "Facultatief"
+
+
+
+msgid "Ships from"
+msgstr "Schepen uit"
+
+
+msgid "Ships to"
+msgstr "Schepen"
+
+
+
+msgid "FAQ"
+msgstr "FAQ"
+
+
+
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen"
+
+msgid "Contact Us"
+msgstr "Contacteer ons"
+
+
+
+
+msgid "Select a topic"
+msgstr "Selecteer een onderwerp"
+
+
+
+msgid "Order Number"
+msgstr "Bestelnummer"
+
+
+
+msgid "Message"
+msgstr "Bericht"
+
+
+msgid "Copyright Policy"
+msgstr "Copyright Policy"
+
+
+
+msgid "Terms of Sale"
+msgstr "Algemene verkoopvoorwaarden"
+
+
+msgid "Terms of Service"
+msgstr "Gebruiksvoorwaarden"
+
+
+
+msgid "Terms and Conditions of Merchant Sale"
+msgstr "Voorwaarden van Merchant Sale"
+
+
+
+msgid "Privacy"
+msgstr "Privacy"
+
+
+
+msgid "Resources"
+msgstr "Middelen"
+
+
+msgid "Gift Cards"
+msgstr "Gift Cards"
+
+
+
+msgid "Group Gifts"
+msgstr "Groep Gifts"
+
+
+msgid "Recommendations"
+msgstr "Aanbevelingen"
+
+
+msgid "Near Me"
+msgstr "Near Me"
+
+
+msgid "KiloMeter"
+msgstr "kilometer"
+
+
+msgid "KiloMeters"
+msgstr "kilometers"
+
+
+msgid "All"
+msgstr "Alle"
+
+
+msgid "Help"
+msgstr "Help"
+
+
+msgid "Contact Markit"
+msgstr "Contact Markit"
+
+
+msgid "FAQ"
+msgstr "FAQ"
+
+
+msgid "Mobile"
+msgstr "Mobiel"
+
+
+msgid "Terms of service"
+msgstr "Voorwaarden van de dienst"
+
+
+msgid "Find Friends"
+msgstr "Vind Vrienden"
+
+
+msgid "Invite Friends"
+msgstr "Vrienden uitnodigen"
+
+
+msgid "Group Gift List"
+msgstr "Groep Gift List"
+
+
+msgid "Track Orders"
+msgstr "Track Bestellingen"
+
+
+msgid "Group Gift List"
+msgstr "Groep Gift List"
+
+
+msgid "Sign out"
+msgstr "Afmelden"
+
+
+msgid "others"
+msgstr "anderen"
+
+
+msgid "Add to list"
+msgstr "Toevoegen aan lijst"
+
+
+msgid "Add to List"
+msgstr "Toevoegen aan lijst"
+
+
+msgid "Suggestions"
+msgstr "Suggesties"
+
+
+msgid "Web"
+msgstr "Web"
+
+
+msgid "Upload"
+msgstr "Uploaden"
+
+
+msgid "Email"
+msgstr "E-mail"
+
+
+msgid "Add from Web"
+msgstr "Toevoegen van Web"
+
+
+msgid "Enter an image link or a website address"
+msgstr "Voer een afbeelding link of een website-adres"
+
+
+msgid "Get Images"
+msgstr "Afbeelding ophalen"
+
+
+msgid "Go Back"
+msgstr "Ga terug"
+
+
+msgid "Thing Details"
+msgstr "Thing Details"
+
+
+msgid "Can be changed later"
+msgstr "Kan later worden gewijzigd"
+
+
+msgid "of"
+msgstr "van"
+
+
+msgid "Title"
+msgstr "Titel"
+
+
+msgid "Price"
+msgstr "Prijs"
+
+
+msgid "Web Link"
+msgstr "Weblink"
+
+
+msgid "Category"
+msgstr "Categorie"
+
+
+msgid "Choose a category"
+msgstr "Kies een categorie"
+
+
+msgid "Save Details"
+msgstr "Opslaan Details"
+
+
+msgid "Scroll to Top"
+msgstr "Scroll naar boven"
+
+
+msgid "Add to"
+msgstr "Toevoegen aan"
+
+
+msgid "Markit Social eCommerce"
+msgstr "Markit Social eCommerce"
+
+
+msgid "Email Address"
+msgstr "E-mailadres"
+
+
+msgid "Minimum 6 characters"
+msgstr "Minimaal 6 tekens"
+
+
+msgid "by"
+msgstr "door"
+
+
+msgid "Similar colors"
+msgstr "Soortgelijke kleuren"
+
+
+msgid "Share"
+msgstr "Aandeel"
+
+
+msgid "Upload fashion"
+msgstr "Upload mode"
+
+
+msgid "comments"
+msgstr "reacties"
+
+
+msgid "Hide comments"
+msgstr "Verberg commentaren"
+
+
+msgid "There is no comment yet for this product"
+msgstr "Er is nog geen commentaar op dit product"
+
+
+msgid "Save comment"
+msgstr "Commentaar besparen"
+
+
+msgid "Edit"
+msgstr "Uitgeven"
+
+
+msgid "Delete"
+msgstr "Verwijder"
+
+
+msgid "Comment"
+msgstr "Commentaar"
+
+
+msgid "Use @ to mention someone"
+msgstr "Gebruik @ om iemand te noemen"
+
+
+msgid "Post comment"
+msgstr "Voeg je reactie toe"
+
+
+msgid "Other things you might"
+msgstr "Andere dingen die je zou"
+
+
+msgid "Recently"
+msgstr "Onlangs"
+
+
+msgid "By"
+msgstr "Door"
+
+
+msgid "No Items Found"
+msgstr "Geen items gevonden"
+
+
+msgid "No items found"
+msgstr "Geen items gevonden"
+
+
+msgid "Be the first one to like this.."
+msgstr "Wees de eerste om dit leuk .."
+
+
+msgid "more"
+msgstr "meer"
+
+
+msgid "Buy It"
+msgstr "Kopen"
+
+
+msgid "Actions"
+msgstr "Acties"
+
+
+msgid "More info"
+msgstr "Meer info"
+
+
+msgid "Similar Color"
+msgstr "Vergelijkbare Kleur"
+
+
+msgid "Sell It"
+msgstr "Verkoop het"
+
+
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+
+msgid "Sold Out"
+msgstr "Uitverkocht"
+
+
+msgid "Select Size"
+msgstr "Kies Maat"
+
+
+msgid "Select Quantity"
+msgstr "Selecteer Hoeveelheid"
+
+
+msgid "Create Group Gift"
+msgstr "Groep maken Gift"
+
+
+msgid "OR"
+msgstr "OR"
+
+
+msgid "Add to Cart"
+msgstr "In winkelwagen"
+
+
+msgid "Contact Seller"
+msgstr "Contact Verkoper"
+
+
+msgid "Be the first person to add fashion photo"
+msgstr "Wees de eerste om fashion foto toe te voegen"
+
+
+msgid "Upload fashion"
+msgstr "Upload mode"
+
+
+msgid "You can upload your photos taken when using this product. It will be approved by the seller to make it public"
+msgstr "U kunt upload uw foto's genomen bij het gebruik van dit product. Het zal worden goedgekeurd door de verkoper het openbaar te maken"
+
+
+msgid "Create"
+msgstr "Creëren"
+
+
+msgid "Done"
+msgstr "Gedaan"
+
+
+msgid "unfantacy"
+msgstr "unfantacy"
+
+
+msgid "Create New List"
+msgstr "Nieuwe lijst maken"
+
+
+msgid "Select category"
+msgstr "Selecteer categorie"
+
+
+msgid "Contributors"
+msgstr "Medewerkers"
+
+
+msgid "Invite"
+msgstr "Uitnodigen"
+
+
+msgid "Creator"
+msgstr "Schepper"
+
+
+msgid "Create list"
+msgstr "Lijst te maken"
+
+
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+
+
+msgid "Share This Thing"
+msgstr "Share This Thing"
+
+
+
+msgid "Creator"
+msgstr "Schepper"
+
+
+
+msgid "Profile"
+msgstr "profiel"
+
+msgid "profile"
+msgstr "profiel"
+
+msgid "Disputes"
+msgstr "Geschillen"
+
+
+
+msgid "Messages"
+msgstr "Berichten"
+
+
+
+msgid "Add Shipping"
+msgstr "Voeg Toe"
+
+
+
+msgid "MERCHANT"
+msgstr "MERCHANT"
+
+
+msgid "Information"
+msgstr "Informatie"
+
+
+msgid "My Sales"
+msgstr "Mijn verkopen"
+
+
+msgid "SHARING"
+msgstr "DELEN"
+
+
+msgid "Credits"
+msgstr "Credits"
+
+
+msgid "Referrals"
+msgstr "Verwijzers"
+
+
+msgid "Gift card"
+msgstr "Gift card"
+
+
+msgid "Create a Group Gift"
+msgstr "Creëer een groep Gift"
+
+
+msgid "Choose Recipient"
+msgstr "Kies Ontvanger"
+
+
+msgid "Personalize"
+msgstr "Personaliseer"
+
+
+msgid "Ask for Contributions"
+msgstr "Vraag naar Bijdragen"
+
+msgid "Enter manual"
+msgstr "Voer handleiding"
+
+
+msgid "Recipient"
+msgstr "Recipiënt"
+
+
+msgid "Full Name"
+msgstr "Volledige Naam"
+
+
+msgid "Address"
+msgstr "Adres"
+
+
+msgid "Address2"
+msgstr "Adres2"
+
+
+msgid "Country"
+msgstr "Land"
+
+
+msgid "State"
+msgstr "Staat"
+
+
+msgid "City"
+msgstr "City"
+
+
+msgid "Zipcode"
+msgstr "Postcode"
+
+
+msgid "Telephone"
+msgstr "Telefoon"
+
+
+msgid "How it works"
+msgstr "Hoe het werkt"
+
+
+msgid "Fill in details for group gift"
+msgstr "Vul gegevens voor groep geschenk"
+
+
+msgid "Grand Total"
+msgstr "Algemeen totaal"
+
+
+msgid "Item total"
+msgstr "Item totale"
+
+
+msgid "Tax"
+msgstr "Belasting"
+
+
+msgid "Description"
+msgstr "Beschrijving"
+
+
+msgid "Use your group gift description to share more about who you’re raising contributions for and why"
+msgstr "Gebruik uw groep geschenk beschrijving om meer te delen over wie je het verhogen van premies voor en waarom"
+
+
+msgid "Enter the Title"
+msgstr "Voer de titel"
+
+
+msgid "Enter the Description"
+msgstr "Voer de Beschrijving"
+
+
+msgid "Ask your friends to contribute"
+msgstr "Vraag je vrienden om bij te dragen"
+
+
+msgid "Add Shipping Address"
+msgstr "Voeg verzendadres"
+
+
+msgid "Order"
+msgstr "Orde"
+
+
+msgid "Products"
+msgstr "Producten"
+
+
+msgid "Total"
+msgstr "Totaal"
+
+
+msgid "Sale Date"
+msgstr "Verkoop Datum"
+
+
+msgid "Status"
+msgstr "Toestand"
+
+
+msgid "Options"
+msgstr "Opties"
+
+
+msgid "Mark Process"
+msgstr "Mark Proces"
+
+
+msgid "Mark Shipped"
+msgstr "Mark verzonden"
+
+
+msgid "Add Tracking"
+msgstr "Tracking toevoegen"
+
+
+msgid "View invoice"
+msgstr "Bekijk factuur"
+
+
+msgid "Contact Buyer"
+msgstr "Contact Buyer"
+
+
+msgid "Load More"
+msgstr "Laad Meer"
+
+
+msgid "No Orders Found"
+msgstr "Geen orders gevonden"
+
+
+msgid "From"
+msgstr "Van"
+
+
+msgid "To"
+msgstr "Bis"
+
+
+msgid "Item"
+msgstr "Artikel"
+
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+
+msgid "Action"
+msgstr "Actie"
+
+
+msgid "Load more message"
+msgstr "Laad meer bericht"
+
+
+msgid "Message Box Empty"
+msgstr "Message Box Leeg"
+
+
+msgid "send"
+msgstr "senden"
+
+
+msgid "Receive"
+msgstr "Ontvangen"
+
+
+msgid "Product Name"
+msgstr "Naam van het product"
+
+
+msgid "Order Id"
+msgstr "Bestel Id"
+
+
+msgid "Order Problem"
+msgstr "Bestel Probleem"
+
+
+msgid "Message"
+msgstr "Bericht"
+
+
+msgid "Actions"
+msgstr "Acties"
+
+
+msgid "View"
+msgstr "Uitzicht"
+
+
+msgid "No Conversation Found"
+msgstr "Geen Conversation gevonden"
+
+
+msgid "View Disputes"
+msgstr "Bekijk Geschillen"
+
+
+msgid "Create Disputes"
+msgstr "Maak Geschillen"
+
+
+msgid "Load More"
+msgstr "Laad Meer"
+
+msgid "Pending"
+msgstr "In afwachting van"
+
+
+msgid "Sender"
+msgstr "Afzender"
+
+
+msgid "Receiver"
+msgstr "Ontvanger"
+
+
+msgid "Date"
+msgstr "Datum"
+
+
+msgid "Total Amount"
+msgstr "Totaal bedrag"
+
+
+msgid "Avl.Amount"
+msgstr "Avl.Amount"
+
+
+msgid "Key"
+msgstr "Sleutel"
+
+
+msgid "Available Credits"
+msgstr "Beschikbaar Credits"
+
+
+msgid "Credit Summary"
+msgstr "Credit Samenvatting"
+
+
+msgid "Credits can be applied on your purchases during checkout"
+msgstr "Credits kunnen op uw aankopen worden toegepast bij het afrekenen"
+
+
+msgid "Credit History"
+msgstr "credit Geschiedenis"
+
+
+msgid "Amount"
+msgstr "Bedrag"
+
+
+msgid "Invited"
+msgstr "Uitgenodigd"
+
+
+msgid "Contact Seller Conversations"
+msgstr "Contact Verkoper Gesprekken"
+
+
+msgid "Shipping Address"
+msgstr "Verzendadres"
+
+
+msgid "Your Saved Shipping Addresses"
+msgstr "Uw opgeslagen Verzendadressen"
+
+
+msgid "Nickname"
+msgstr "Bijnaam"
+
+
+msgid "Phone"
+msgstr "Telefoon"
+
+
+msgid "Default Address"
+msgstr "Standaard adres"
+
+
+msgid "Save"
+msgstr "Besparen"
+
+
+msgid "Bank Information"
+msgstr "Bank Informatie"
+
+
+msgid "Paypal Id"
+msgstr "Paypal Id"
+
+
+msgid "Seller Address"
+msgstr "Verkoper Adres"
+
+
+msgid "Latitude"
+msgstr "Breedte"
+
+
+msgid "Longitude"
+msgstr "Lengte"
+
+
+msgid "To find the latitude and longitude of a point Click on the map, Drag the marker, or enter the..."
+msgstr "Te vinden van de lengte-en breedtegraad van een punt Klik op de kaart, Sleep de marker, of voer de ..."
+
+
+msgid "Update"
+msgstr "Update"
+
+
+msgid "Go"
+msgstr "Gaan"
+
+
+msgid "Markit Credits"
+msgstr "Markit kredieten"
+
+
+msgid "Your Credit amount is empty."
+msgstr "Uw Credit bedrag is leeg."
+
+
+msgid "Earn more credits by"
+msgstr "Verdien meer credits door"
+
+
+msgid "Markit Gift Card"
+msgstr "Markit Gift Card"
+
+
+msgid "Follower"
+msgstr "Volgeling"
+
+
+msgid "Following"
+msgstr "Volgend"
+
+
+msgid "Edit profile"
+msgstr "Profiel bewerken"
+
+
+msgid "Lists"
+msgstr "Lijsten"
+
+
+msgid "Want it"
+msgstr "Wil het"
+
+
+msgid "Own it"
+msgstr "Eigenaar van het"
+
+
+msgid "News"
+msgstr "Nieuws"
+
+
+msgid "User Fashion"
+msgstr "Gebruiker Fashion"
+
+
+msgid "Invite Friends to"
+msgstr "Vrienden uitnodigen om"
+
+
+msgid "Social network"
+msgstr "Sociaal netwerk"
+
+
+msgid "Invite friends to Markit from your social networks"
+msgstr "Vrienden uitnodigen om Markit van je sociale netwerken"
+
+
+msgid "We won"
+msgstr "We won"
+
+
+msgid "Referral link"
+msgstr "Doorverwijslink"
+
+
+msgid "Invite via email"
+msgstr "Uitnodigen via e-mail"
+
+
+msgid "Copy link"
+msgstr "koppeling kopiëren"
+
+
+msgid "Users who own this"
+msgstr "Gebruikers die dit bezitten"
+
+
+msgid "More from"
+msgstr "Meer van"
+
+
+msgid "I want it"
+msgstr "Ik wil het"
+
+
+msgid "I own it"
+msgstr "Ik ben eigenaar van het"
+
+
+msgid "You want it"
+msgstr "Je wilt het"
+
+
+msgid "You own it"
+msgstr "Jij bezit het"
+
+
+msgid "One business day"
+msgstr "Een werkdag"
+
+
+msgid "Two business days"
+msgstr "Twee werkdagen"
+
+
+msgid "Three business days"
+msgstr "Drie werkdagen"
+
+
+msgid "Four business days"
+msgstr "Vier werkdagen"
+
+
+msgid "One-Two weeks"
+msgstr "One-Two weken"
+
+
+msgid "Two-Three weeks"
+msgstr "Twee-drie weken"
+
+
+msgid "Three-Four weeks"
+msgstr "Drie-vier weken"
+
+
+msgid "Four-Six weeks"
+msgstr "Vier-zes weken"
+
+
+msgid "Six-Eight weeks"
+msgstr "Zes-acht weken"
+
+
+msgid "Write a comment..."
+msgstr "Schrijf een reactie ..."
+
+
+msgid "Report inappropriate"
+msgstr "Verslag ongepast"
+
+
+msgid "Undo reporting"
+msgstr "Ongedaan rapportage"
+
+
+msgid "You"
+msgstr "U"
+
+
+msgid "Updates"
+msgstr "Updates"
+
+msgid "Send news about Fantasy"
+msgstr "Stuur nieuws over Fantasy"
+
+
+msgid "Dispute Management"
+msgstr "Geschil management"
+
+
+msgid "Seller"
+msgstr "Verkoper"
+
+
+msgid "Whats the Problem"
+msgstr "Wat is het probleem"
+
+
+msgid "choose one"
+msgstr "kiezen"
+
+
+msgid "Add Shipping Address"
+msgstr "Voeg verzendadres"
+
+
+msgid "Discount"
+msgstr "korting"
+
+
+msgid "Size"
+msgstr "Maat"
+
+
+msgid "Coupon codes:"
+msgstr "Coupon codes:"
+
+
+msgid "Gift Card codes"
+msgstr "Gift Card codes"
+
+
+msgid "Selected Address:"
+msgstr "Geselecteerde Adres:"
+
+
+msgid "Add new address"
+msgstr "Nieuw adres toevoegen"
+
+
+msgid "Use Credit Amount"
+msgstr "Gebruik Credit Bedrag"
+
+
+msgid "Please Remove the Product that cannot be Shipped to your Location or Give a Different Address to make a Checkout"
+msgstr "Verwijder het product dat niet kan worden verzonden naar uw locatie of geef een ander adres om een kassa te maken"
+
+
+msgid "Please Remove the Product which is sold out to make a Checkout"
+msgstr "Verwijder het product dat wordt verkocht aan een Checkout"
+
+
+msgid "Your Shopping Cart is Empty"
+msgstr "Uw winkelwagen is leeg"
+
+
+msgid "Don’t miss out on awesome sales right here on Trend. Let’s fill that cart, shall we?"
+msgstr "Niet te missen op geweldige verkoop hier op Trend. Laten we dat invullen wagen, zullen we?"
+
+
+msgid "Using Credit amount"
+msgstr "Het gebruik van Credit bedrag"
+
+
+msgid "Your credit amount"
+msgstr "Uw kredietbedrag"
+
+
+msgid "Maximum credit you can use for this purchase"
+msgstr "Maximale krediet dat u kunt gebruiken voor deze aankoop"
+
+
+msgid "Enter amount"
+msgstr "Vul bedrag"
+
+
+msgid "Your credit amount is empty"
+msgstr "Uw krediet bedrag is leeg"
+
+
+msgid "Apply"
+msgstr "Van toepassing zijn"
+
+
+msgid "Checkout with Paypal"
+msgstr "Afrekenen met Paypal"
+
+
+msgid "You have"
+msgstr "Je hebt"
+
+
+msgid "Items in your Cart"
+msgstr "Items in uw winkelwagen"
+
+
+msgid "Have a coupon code?"
+msgstr "Heeft u een coupon code?"
+
+
+msgid "Have a Gift Card code?"
+msgstr "Heeft u een Gift Card code?"
+
+
+msgid "Year"
+msgstr "Jaar"
+
+
+msgid "Month"
+msgstr "Maand"
+
+
+msgid "Day"
+msgstr "Dag"
+
+
+msgid "We will send you a surprise on your birthday"
+msgstr "Wij zullen u een verrassing te sturen op je verjaardag"
+
+
+msgid "Write something about yourself"
+msgstr "Schrijf iets over jezelf"
+
+
+msgid "Order Details"
+msgstr "Bestellen Details"
+
+
+msgid "Total Amount Paid"
+msgstr "Totaal bedrag betaald"
+
+
+msgid "Tracking Details"
+msgstr "Tracking Details"
+
+
+msgid "Shipment Date"
+msgstr "Verzending Datum"
+
+
+msgid "Tracking Id"
+msgstr "Tracking Id"
+
+
+msgid "Logestic Name"
+msgstr "Logestic Naam"
+
+
+msgid "Shipment Service"
+msgstr "Verzending Dienst"
+
+
+msgid "Additional Notes"
+msgstr "Aanvullende Opmerkingen"
+
+
+msgid "Not yet updated"
+msgstr "Nog niet bijgewerkt"
+
+
+msgid "Product Details"
+msgstr "Product Details"
+
+
+msgid "Item Details"
+msgstr "Item Details"
+
+
+msgid "Item Price"
+msgstr "Item Prijs"
+
+
+msgid "Shipping Price"
+msgstr "Verzending Prijs"
+
+
+msgid "Total Price"
+msgstr "Totale prijs"
+
+
+msgid "Qty"
+msgstr "Aantal"
+
+
+msgid "Unit Price"
+msgstr "Prijs unit"
+
+
+msgid "See Conversation"
+msgstr "Zie Conversatio"
+
+
+msgid "Contact Seller"
+msgstr "Contact Verkoper" 
+
+
+msgid "Conversation with seller"
+msgstr "Gesprek met de verkoper"
+
+
+msgid "Load more comment"
+msgstr "Laad meer commentaar"
+
+
+msgid "Previous Messages"
+msgstr "Vorige Berichten"
+
+
+msgid "No Conversation Found"
+msgstr "Geen Conversation gevonden"
+
+
+msgid "Dispute As Buyer"
+msgstr "Geschil als koper"
+
+
+msgid "Order ID"
+msgstr "Bestel ID"
+
+
+msgid "Send"
+msgstr "Sturen"
+
+
+msgid "Dispute As Seller"
+msgstr "Geschil Als Verkoper"
+
+
+msgid "Default"
+msgstr "Verzuim"
+
+
+msgid "Select Country"
+msgstr "Kies een land"
+
+
+msgid "Phone No"
+msgstr "Telefoon nr"
+
+
+msgid "Make this as Default"
+msgstr "Maak deze als standaard"
+
+
+msgid "From one month range"
+msgstr "Vanaf een maand bereik"
+
+
+msgid "View old orders"
+msgstr "Bekijk oude bestellingen"
+
+
+msgid "Sales History"
+msgstr "Sales Geschiedenis"
+
+
+msgid "View recent orders"
+msgstr "Bekijk recente orders"
+
+
+msgid "Add Tracking Details"
+msgstr "Voeg Tracking Details"
+
+
+msgid "Buyer Details"
+msgstr "Details koper"
+
+
+msgid "Edit Tracking Details"
+msgstr "Bewerk Tracking Details"
+
+
+msgid "Invoice"
+msgstr "Factuur"
+
+
+msgid "on"
+msgstr "op"
+
+
+msgid "Payment Method"
+msgstr "Betaalmethode"
+
+
+msgid "Payment Status"
+msgstr "Betaling Status"
+
+
+msgid "Payment to"
+msgstr "Betaling aan"
+
+
+msgid "Sl no"
+msgstr "Sl geen"
+
+
+msgid "Item Name"
+msgstr "Naam van het punt"
+
+
+msgid "Item Quantity"
+msgstr "Item Hoeveelheid"
+
+
+msgid "Item Unitprice"
+msgstr "Punt UnitPrice"
+
+
+msgid "Shipping fee"
+msgstr "Verzendkosten in rekening gebracht"
+
+
+msgid "Coupon Discount"
+msgstr "Coupon Korting"
+
+
+msgid "Credit Discount"
+msgstr "Credit Discount"
+
+
+msgid "Grand Total"
+msgstr "Algemeen totaal"
+
+
+msgid "Mark as Shipped"
+msgstr "Als verscheept"
+
+
+
+msgid "Conversation with buyer"
+msgstr "Gesprek met koper"
+
+
+msgid "Please enter correct email and password"
+msgstr "Voer de juiste e-mailadres en wachtwoord"
+
+
+msgid "username already exists"
+msgstr "gebruikersnaam bestaat al" 
+
+
+msgid "Email already exists"
+msgstr "E-mail bestaat al"
+
+
+msgid "An email was sent to your mail box, please activate your account and login."
+msgstr "Een e-mail is verzonden naar uw e-mail box, moet je account en inloggen."
+
+
+msgid "Password sent. Check your email immediately."
+msgstr "Wachtwoord verzonden. Controleer onmiddellijk uw e-mail."
+
+
+msgid "Email id is not found Please register to our site."
+msgstr "E-id is niet gevonden Registreer op onze site."
+
+
+msgid "Your account is Verified, please login and continue"
+msgstr "Uw account is geverifieerd, kunt u inloggen en doorgaan"
+
+
+msgid "Your account was already Verified"
+msgstr "Uw account werd al Verified"
+
+
+msgid "You are not authenticated.Please signup"
+msgstr "U bent niet authenticated.Please signup"
+
+
+msgid "Sorry, something went wrong"
+msgstr "Sorry, ging er iets mis"
+
+
+msgid "You are not authenticate to edit others profile."
+msgstr "U bent niet authenticeren bewerken anderen te profileren."
+
+
+msgid "You cannot follow yourself"
+msgstr "Je kunt jezelf niet volgen"
+
+
+msgid "Dispute Created"
+msgstr "Geschil Gemaakt"
+
+
+msgid "Successfully Updated"
+msgstr "Succesvol bijgewerkt"
+
+
+msgid "Password updated successfully."
+msgstr "Wachtwoord succesvol gewijzigd."
+
+
+msgid "Existing password is incorrect"
+msgstr "Bestaande wachtwoord is onjuist"
+
+
+msgid "Successfully Updated"
+msgstr "Succesvol bijgewerkt"
+
+
+msgid "Merchant Updated"
+msgstr "Merchant update"
+
+
+msgid "Admin Approval Pending"
+msgstr "Admin Goedkeuring afwachting"
+
+msgid "Note:"
+msgstr "Opmerking:"
+
+msgid "Note:You need to signup this seller form to add your product for sales in this website. You are signup will be approved by the admin in 24 hours of working time and after successful approval, you can add your products and it's details."
+msgstr "Opmerking:U moet deze verkoper formulier aanmelden om uw product toe te voegen voor de verkoop op deze website. Je aanmelden zullen door de beheerder worden goedgekeurd in 24 uur van de arbeidstijd en na een succesvolle goedkeuring, kunt u uw producten toe te voegen en het is details."
+
+msgid "Your account has been disbled please contact our support"
+msgstr "Uw account is disbled neem dan contact op met onze support"
+
+msgid "Something went wrong, please try again."
+msgstr "Er is iets misgegaan, probeer het opnieuw."
+
+
+
+msgid "Please enter the Username"
+msgstr "Vul de gebruikersnaam"
+
+msgid "Please enter the Email"
+msgstr "Geef het e-"
+
+msgid "Username already exists"
+msgstr "Gebruikersnaam bestaat"
+
+msgid "Email already exists"
+msgstr "E-mail bestaat al"
+
+msgid "Something went wrong, please try again."
+msgstr "Er is iets misgegaan, probeer het opnieuw."
+
+msgid "Invite sent successfully"
+msgstr "Invite succesvol verzonden"
+
+msgid "Successfully login"
+msgstr "Succes te loggen"
+
+msgid "Please activate your account by the email sent to you"
+msgstr "Activeer uw account door de e-mail naar u verzonden"
+
+msgid "Your account has been disbled please contact our support"
+msgstr "Uw account is disbled neem dan contact op met onze support"
+
+
+msgid "Something went wrong, please try again."
+msgstr "Er is iets misgegaan, probeer het opnieuw."
+
+
+
+msgid "Please enter the Username"
+msgstr "Vul de gebruikersnaam"
+
+msgid "Please enter the Email"
+msgstr "Geef het e-"
+
+msgid "Username already exists"
+msgstr "Gebruikersnaam bestaat"
+
+msgid "Email already exists"
+msgstr "E-mail bestaat al"
+
+msgid "Something went wrong, please try again."
+msgstr "Er is iets misgegaan, probeer het opnieuw."
+
+msgid "Invite sent successfully"
+msgstr "Invite succesvol verzonden"
+
+msgid "Successfully login"
+msgstr "Succes te loggen"
+
+msgid "Please activate your account by the email sent to you"
+msgstr "Activeer uw account door de e-mail naar u verzonden"
+
+
+msgid "Comment:"
+msgstr "Commentaar:"
+
+
+msgid "Value"
+msgstr "Waarde"
+
+
+msgid "Select Value"
+msgstr "Selecteer Waarde"
+
+
+msgid "Please Enter the Recipient’s name"
+msgstr "Voer de naam van de ontvanger"
+
+
+msgid "Recipent’s email address"
+msgstr "E-mailadres recipent's"
+
+
+msgid "Please Enter the Recipient’s Email"
+msgstr "Voer de ontvanger E-mail"
+
+
+msgid "Please Enter the Valid Recipient’s Email"
+msgstr "Voer Valid Ontvanger E"
+
+
+msgid "Personal message"
+msgstr "Persoonlijke boodschap"
+
+
+msgid "Please Enter Message"
+msgstr "Voer bericht"
+
+
+msgid "View all"
+msgstr "Bekijk alle"
+
+
+msgid "Start a Group Gift Today"
+msgstr "Begin een groep Gift Vandaag"
+
+
+msgid "Gather your friends and give amazing gifts from Markit to people you love."
+msgstr "Verzamel je vrienden en geef geweldige giften van Markit naar mensen die je liefhebt."
+
+
+msgid "Contribute"
+msgstr "Bijdragen"
+
+
+msgid "Pick any item, contribute any amount. You"
+msgstr "Kies een item, dragen elk bedrag. u"
+
+
+msgid "re only charged if the group gift is successful."
+msgstr "re alleen in rekening gebracht als de groep geschenk succesvol is."
+
+
+msgid "Success"
+msgstr "Succes"
+
+
+msgid "Invite your friends to contribute. Once you meet your target, Markit will take care of the rest!"
+msgstr "Nodig je vrienden uit om bij te dragen. Zodra u uw doel te bereiken, zal Markit zorgen voor de rest!"
+
+
+msgid "Jump to top"
+msgstr "Ga naar boven"
+
+
+msgid "Recomendations"
+msgstr "Recomendations"
+
+msgid "Forgot Password"
+msgstr "Wachtwoord vergeten"
+
+msgid "Forgot your password? Enter your email address to reset it."
+msgstr "Wachtwoord vergeten? Vul uw e-mailadres om het te resetten."
+
+msgid "Reset Password"
+msgstr "Reset Password"
+
+msgid "Image Upload"
+msgstr "Afbeelding uploaden"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Url:"
+msgstr "Video Url:"
+
+msgid "Color List:"
+msgstr "Kleur lijst:"
+
+msgid "Upload Photos:"
+msgstr "Upload Foto's:"
+
+msgid "Please choose Color For Seprete With Comma ( , )"
+msgstr "Kies kleur voor Seprete Met Komma (,)"
+
+msgid "Not Mantatory Field"
+msgstr "Niet Mantatory Field"
+
+msgid "More Informations"
+msgstr "Meer informatie"
+
+msgid "Select gender"
+msgstr "Selecteer geslacht"
+
+msgid "Ready to ship in"
+msgstr "Klaar om in"
+
+msgid "business day"
+msgstr "werkdag"
+
+msgid "business days"
+msgstr "werkdagen"
+
+msgid "weeks"
+msgstr "weken"
+
+msgid "Custom range"
+msgstr "Aangepast bereik in"
+
+msgid "From..."
+msgstr "Van ..."
+
+msgid "To..."
+msgstr "To ..."
+
+msgid "Product sizes"
+msgstr "Productafmetingen"
+
+msgid "Shipping countries"
+msgstr "Scheepvaart landen"
+
+msgid "Select a location"
+msgstr "Selecteer een locatie"
+
+msgid "Everywhere else"
+msgstr "Overal elders"
+
+msgid "Sets the shipping costs for EVERY country not covered by country specific shipping costs. This is optional."
+msgstr "Stelt de verzendkosten voor elk land niet onder landspecifieke verzendkosten. Dit is optioneel."
+
+msgid "Commission Details"
+msgstr "Commissiegegevens"
+
+
+msgid "Commission"
+msgstr "Commissie"
+
+msgid "Ships Details"
+msgstr "Schepen Details"
+
+msgid "Shoes or T-shirts(optional)"
+msgstr "Shoes or T-shirts(optional)"
+
+msgid "Cost"
+msgstr "kosten"
+
+msgid "commision details"
+msgstr "Commisie gegevens"
+
+msgid "Must enter the details separate comma"
+msgstr "Moet u de gegevens invoeren gescheiden door komma"
+
+msgid "s(,) Example:M=4,L=6,XL=10"
+msgstr "s (,) Voorbeeld: M = 4, L = 6, XL = 10"
+
+msgid "View Details"
+msgstr "Bekijk details"
+
+msgid "Mark Received"
+msgstr "Mark Ontvangen"
+
+msgid "Enter the Full Name"
+msgstr "Voer de volledige naam"
+
+msgid "Enter the Address"
+msgstr "Voer het adres"
+
+msgid "Note: Product can be shipped to the listed country only"
+msgstr "Opmerking: Het product kan worden verzonden naar het vermelde land alleen"
+
+msgid "Product can be shipped only to the listed countries"
+msgstr "Product kan alleen worden verzonden naar de genoemde landen"
+
+msgid "Select The Country"
+msgstr "Selecteer het land"
+
+msgid "Enter the State"
+msgstr "Voer de Staat"
+
+msgid "Enter the City"
+msgstr "Enter the City"
+
+msgid "Enter the Zipcode"
+msgstr "Voer de Postcode"
+
+msgid "Enter the Telephone number"
+msgstr "Voer het telefoonnummer"
+
+
+msgid "Add Your Fashion on this product"
+msgstr "Add Your Fashion over dit product"
+
+msgid "Group gift summary"
+msgstr "Groep geschenk samenvatting"
+
+msgid "Group Gift Total"
+msgstr "Groep Gift Totaal"
+
+msgid "This group gift will be valid for 7 days."
+msgstr "Deze groep geschenk zal zijn 7 dagen geldig."
+
+msgid "Only"
+msgstr "Alleen"
+
+msgid "available"
+msgstr "beschikbaar"
+
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+msgid "A fun and easy way to give gifts to your friends."
+msgstr "Een leuke en makkelijke manier om geschenken te geven aan je vrienden."
+
+msgid "Pick any item, contribute any amount. You"
+msgstr "Kies een item, dragen elk bedrag. u"
+
+msgid "re only charged if the group gift is successful."
+msgstr "re alleen in rekening gebracht als de groep geschenk succesvol is."
+
+
+msgid "Added"
+msgstr "Toegevoegd"
+
+msgid "Use this link to share on Twitter, Facebook or in an Email."
+msgstr "Gebruik deze link om te delen op Twitter, Facebook of in een e-mail."
+
+
+msgid "Invite your friends and earn credits when they"
+msgstr "Nodig je vrienden uit en verdien credits wanneer ze"
+
+msgid "from your social networks"
+msgstr "uit je sociale netwerken"
+
+msgid "Google+"
+msgstr "Google+"
+
+msgid "t share your contacts with anybody or email anyone without your consent."
+msgstr "t deel uw contacten met iemand of e-iemand zonder uw toestemming."
+
+msgid "Referral link was copied to clipboard."
+msgstr "Doorverwijslink werd gekopieerd naar het klembord."
+
+msgid "Earn more credits by sharing your link with friends on social networks"
+msgstr "Verdien meer credits door het delen van uw link met vrienden op sociale netwerken"
+
+msgid "Invite your friends to Fancy via email"
+msgstr "Nodig je vrienden uit om geld verdienen via e-mail"
+
+msgid "Enter your friends email address"
+msgstr "Voer je vrienden e-mailadres"
+
+msgid "Add a personal note (optional)"
+msgstr "Voeg een persoonlijke noot (optioneel)"
+
+msgid "You will be rewarded with"
+msgstr "Je wordt beloond met"
+
+msgid "if your friend signs up and makes a purchase within 60 days"
+msgstr "als je vriend zich aanmeldt en een aankoop binnen 60 dagen"
+
+
+msgid "Welcome to Markit!"
+msgstr "Welkom bij Markit!"
+
+msgid "Join Markit today"
+msgstr "Join Markit vandaag"
+
+msgid "Sign in to Markit"
+msgstr "Meld u aan om Markit"
+
+msgid "More Actions"
+msgstr "Meer acties"
+
+
+msgid "Add something favorite"
+msgstr "Iets favoriet toevoegen"
+
+
+msgid "Following none"
+msgstr "Na none"
+
+msgid "Follow someone"
+msgstr "Volg iemand"
+
+msgid "Add something"
+msgstr "iets toevoegen"
+
+msgid "positive"
+msgstr "positief"
+
+msgid "Based on"
+msgstr "Gebaseerd op"
+
+msgid "ratings"
+msgstr "ratings"
+
+msgid "No body follows"
+msgstr "Geen lichaam volgt"
+
+msgid "ask  someone to follow"
+msgstr "vraag iemand om te volgen"
+
+msgid "You haven’t added any shipping address yet"
+msgstr "Je hebt nog geen verzendadres toegevoegd"
+
+msgid "Contributions"
+msgstr "bijdragen"
+
+msgid "This group gift will be delivered after the successful contribution from everyone"
+msgstr "Deze groep geschenk zal na de succesvolle bijdrage van iedereen worden geleverd"
+
+msgid "Total contributors"
+msgstr "Totaal medewerkers"
+
+msgid "This group gift must receive all contributions by"
+msgstr "Deze groep geschenk moet alle bijdragen ontvangen door"
+
+
+msgid "Unsuccessful gift will be refunded"
+msgstr "Mislukte gift zal worden terugbetaald"
+
+
+msgid "d by"
+msgstr "d door"
+
+
+msgid "Group Gift History"
+msgstr "Groep Gift Geschiedenis"
+
+
+msgid "Group Gift Lists"
+msgstr "Groep Gift Lijsten"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "End date"
+msgstr "Einddatum"
+
+msgid "Contribution"
+msgstr "Bijdrage"
+
+msgid "No Purchase Found"
+msgstr "Geen Aankoop gevonden"
+
+msgid "New password,"
+msgstr "Nieuw wachtwoord,"
+
+msgid "at least 6 characters"
+msgstr "minimaal 6 tekens"
+
+msgid "Confirm your new password"
+msgstr "Bevestig het nieuwe wachtwoord"
+
+msgid "You havn’t invited anyone yet."
+msgstr "U havn't nog uitgenodigd iedereen."
+
+msgid "Invite friends"
+msgstr "vrienden uitnodigen"
+
+msgid "Send Gift Card"
+msgstr "Stuur Gift Card"
+
+msgid "Redeem a Gift Card"
+msgstr "Inwisselen een Gift Card"
+
+msgid "Proceed to Checkout"
+msgstr "Ga verder naar de kassa"
+
+msgid "Cart Empty"
+msgstr "Winkelwagen is leeg"
+
+
+

@@ -1,0 +1,48 @@
+[18-Jan-2015 09:15:10 America/Denver] PHP Notice:  unserialize(): Error at offset 81 of 11920 bytes in /home/markit/public_html/markitv1/lib/Cake/Cache/Engine/FileEngine.php on line 194
+[20-Jan-2015 03:49:41 America/Denver] PHP Notice:  Undefined variable: total_itms in /home/markit/public_html/app/Controller/AppController.php on line 164
+[20-Jan-2015 03:49:41 America/Denver] PHP Fatal error:  [CakeException] Unknown status code
+#0 /home/markit/public_html/lib/Cake/Error/ExceptionRenderer.php(214): CakeResponse->statusCode(110)
+#1 [internal function]: ExceptionRenderer->error400(Object(SocketException))
+#2 /home/markit/public_html/lib/Cake/Error/ExceptionRenderer.php(176): call_user_func_array(Array, Array)
+#3 /home/markit/public_html/lib/Cake/Error/ErrorHandler.php(120): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(SocketException))
+#5 {main} in /home/markit/public_html/lib/Cake/Error/ErrorHandler.php on line 129
+[20-Jan-2015 03:49:41 America/Denver] PHP Notice:  Undefined variable: total_itms in /home/markit/public_html/app/Controller/AppController.php on line 164
+[20-Jan-2015 03:50:11 America/Denver] PHP Notice:  Undefined variable: total_itms in /home/markit/public_html/app/Controller/AppController.php on line 164
+[20-Jan-2015 03:50:11 America/Denver] PHP Fatal error:  [CakeException] Unknown status code
+#0 /home/markit/public_html/lib/Cake/Error/ExceptionRenderer.php(214): CakeResponse->statusCode(110)
+#1 [internal function]: ExceptionRenderer->error400(Object(SocketException))
+#2 /home/markit/public_html/lib/Cake/Error/ExceptionRenderer.php(176): call_user_func_array(Array, Array)
+#3 /home/markit/public_html/lib/Cake/Error/ErrorHandler.php(120): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(SocketException))
+#5 {main} in /home/markit/public_html/lib/Cake/Error/ErrorHandler.php on line 129
+[20-Jan-2015 03:50:11 America/Denver] PHP Notice:  Undefined variable: total_itms in /home/markit/public_html/app/Controller/AppController.php on line 164
+[21-Jan-2015 00:23:51 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:23:51 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:28:22 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:28:22 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:28:34 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:28:34 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:28:43 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:28:43 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:30:29 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:30:29 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:30:40 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:30:40 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:30:43 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:30:43 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:32:31 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:32:31 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:34:55 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:34:55 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:35:24 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 00:35:24 America/Denver] PHP Fatal error:  Call to a member function read() on a non-object in /home/markit/public_html/app/Controller/AppController.php on line 228
+[21-Jan-2015 06:54:12 America/Denver] PHP Notice:  Undefined index: Managemodule in /home/markit/public_html/app/Controller/AppController.php on line 91
+[21-Jan-2015 06:54:12 America/Denver] PHP Fatal error:  [CakeException] Unknown status code
+#0 /home/markit/public_html/lib/Cake/Error/ExceptionRenderer.php(214): CakeResponse->statusCode(110)
+#1 [internal function]: ExceptionRenderer->error400(Object(SocketException))
+#2 /home/markit/public_html/lib/Cake/Error/ExceptionRenderer.php(176): call_user_func_array(Array, Array)
+#3 /home/markit/public_html/lib/Cake/Error/ErrorHandler.php(120): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(SocketException))
+#5 {main} in /home/markit/public_html/lib/Cake/Error/ErrorHandler.php on line 129
+[21-Jan-2015 06:54:12 America/Denver] PHP Notice:  Undefined index: Managemodule in /home/markit/public_html/app/Controller/AppController.php on line 91

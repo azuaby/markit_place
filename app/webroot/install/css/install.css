@@ -1,0 +1,121 @@
+body {
+	background: #f9f9f9;
+}
+
+.formhead h2 {
+    text-align: center;
+}
+
+.form, .confirmation, .finishpopup {
+    padding: 2% 4% 3%;
+}
+
+.loading {
+    display: none;
+    text-align: center;
+}
+
+.stephead {
+    background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #F5F7E8),
+		color-stop(0.7, #FFFFFF)
+	);
+	background-image: -o-linear-gradient(bottom, #F5F7E8 0%, #FFFFFF 70%);
+	background-image: -moz-linear-gradient(bottom, #F5F7E8 0%, #FFFFFF 70%);
+	background-image: -webkit-linear-gradient(bottom, #F5F7E8 0%, #FFFFFF 70%);
+	background-image: -ms-linear-gradient(bottom, #F5F7E8 0%, #FFFFFF 70%);
+	background-image: linear-gradient(to bottom, #F5F7E8 0%, #FFFFFF 70%);
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 2%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.steps, .confirmation, .finishpopup {
+	margin: 6% auto 0;
+    width: 40%;
+    border-radius: 4px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    background: #fff;
+}
+
+.step3.steps, .step4.steps {
+    height: 160px;
+}
+
+.steps, .finishpopup {
+	display: none;
+}
+
+.indexstart{
+	float: right;
+	cursor: pointer;
+}
+
+.errormsg {
+    background: none repeat scroll 0 0 rgba(255, 0, 0, 0.1);
+    border: 1px solid rgba(255, 0, 0, 0.2);
+    border-radius: 4px;
+    color: #FF0000;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    width: 45%;
+    display: none;
+}
+
+.form label {
+    float: left;
+    font-size: 14px;
+    padding: 8px 4px;
+    width: 47%;
+}
+
+.form input[type='text'], .form input[type='password'] {
+	padding: 5px;
+}
+
+.steps select {
+    margin-top: 4px;
+    padding: 1px 2px;
+    width: 100px;
+}
+
+.form input[type='submit'] {
+	float: right;	
+	margin-right: 2.5%;
+	cursor: pointer;
+}
+
+.form input[type='button'] {
+	float: left;
+	cursor: pointer;
+}
+
+.finishpopup {
+	text-align: center;
+}
+
+.installfinsh {
+    color: #2E2E2E;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 44px;
+    text-align: center;
+}
+
+.finish {
+    background: -moz-linear-gradient(center top , #538CC4, #4781B9) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #396C9D;
+    border-radius: 4px;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    height: 44px;
+    padding: 0 13px;
+}

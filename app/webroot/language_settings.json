@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "default": "eng",
+        "total": "2",
+        "multilingual": "yes"
+    },
+    "languages": {
+        "English": "eng",
+        "Arabic": "arb"
+    }
+}

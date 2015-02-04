@@ -1,0 +1,8 @@
+msgid "Welcome to"
+msgstr "Welcome to"
+
+msgid "Discover amazing stuff, collect the things you love, buy it all in one place."
+msgstr "Discover amazing stuff, collect the things you love, buy it all in one place."
+
+msgid "Sign Up"
+msgstr "Sign Up"

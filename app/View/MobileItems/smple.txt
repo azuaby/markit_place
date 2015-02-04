@@ -1,0 +1,176 @@
+ <div class="section">
+                            
+    <div class="section-inner clear">
+                    
+<div data-variation="property[recipient]" class="input-group clear" id="recipient">
+        <label for="recipient">Recipient</label>
+    <div class="select-group">
+        <h4>Who is it for? <span class="optional">optional</span></h4>
+        <select name="property[recipient]">
+            <option value="">Select a recipient...</option>
+                             <option value="266817085" >Babies</option>
+                              <option value="266817081" >Baby Boys</option>
+                              <option value="266817083" >Baby Girls</option>
+                              <option value="266817087" >Birds</option>
+                              <option value="266817073" >Boys</option>
+                              <option value="301958802" >Cats</option>
+                              <option value="266817079" >Children</option>
+                              <option value="301959052" >Dogs</option>
+                              <option value="266817077" >Girls</option>
+                              <option value="266817059" >Men</option>
+                              <option value="301959242" >Pets</option>
+                              <option value="266817067" >Teen Boys</option>
+                              <option value="266817069" >Teen Girls</option>
+                              <option value="266817071" >Teens</option>
+                              <option value="266817065" >Unisex Adults</option>
+                              <option value="266817061" >Women</option>
+                     </select>
+                    <a class="overlay-trigger" href="" rel="#recipient-help">What if my item is for everyone?</a>
+            </div>
+</div>
+
+
+
+<div data-variation="property[recipient]" id="recipient-help" class="overlay overlay-narrow">
+    <div class="overlay-content">
+        <div class="overlay-body">
+            <p>Only choose a recipient if your item is for a specific recipient. If your item is for everyone, choosing a recipient could make it harder for shoppers to find your item in search.</p>
+            <p>Not specifying a recipient will not hurt your exposure in search results.</p>
+        </div>
+        <div class="overlay-footer">
+            <div class="primary-actions">
+                <span class="button-medium button-medium-grey">
+                    <span>
+                        <input class="close" type="button" value="Close">
+                    </span>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>            <hr/>
+            
+<div class="input-group clear" id="occasion">
+    <label for="occasion">Occasion</label>
+    <div class="select-group">
+        <h4>Is it for a specific event? <span class="optional">optional</span></h4>
+        <select name="property[occasion]">
+            <option value="">Select an occasion...</option>
+                             <option value="265747026" >Anniversary</option>
+                              <option value="266817015" >Baptism</option>
+                              <option value="266817019" >Bar or Bat Mitzvah</option>
+                              <option value="266817021" >Birthday</option>
+                              <option value="266817023" >Canada Day</option>
+                              <option value="266817025" >Chinese New Year</option>
+                              <option value="266817033" >Christmas</option>
+                              <option value="266817027" >Cinco de Mayo</option>
+                              <option value="266817031" >Confirmation</option>
+                              <option value="266817035" >Day of the Dead</option>
+                              <option value="266817037" >Easter</option>
+                              <option value="266817039" >Eid</option>
+                              <option value="266817041" >Engagement</option>
+                              <option value="266817043" >Father&#39;s Day</option>
+                              <option value="266817045" >Get Well</option>
+                              <option value="266817047" >Graduation</option>
+                              <option value="266817049" >Halloween</option>
+                              <option value="266817053" >Hanukkah</option>
+                              <option value="301968268" >Housewarming</option>
+                              <option value="301969602" >July 4th</option>
+                              <option value="301968820" >Kwanza</option>
+                              <option value="301970024" >Mother&#39;s Day</option>
+                              <option value="302321710" >New Baby</option>
+                              <option value="302326608" >New Year&#39;s</option>
+                              <option value="301969314" >Prom</option>
+                              <option value="301971256" >Quinceanera</option>
+                              <option value="301971768" >Retirement</option>
+                              <option value="301972474" >St. Patrick&#39;s Day</option>
+                              <option value="301972682" >Sweet 16</option>
+                              <option value="301972900" >Sympathy</option>
+                              <option value="301973060" >Thanksgiving</option>
+                              <option value="301974680" >Valentine&#39;s</option>
+                              <option value="301974880" >Wedding</option>
+                     </select>
+                    <a class="overlay-trigger" href="" rel="#occasion-help">Why only one occasion?</a>
+            </div>
+</div>
+
+
+
+
+
+
+
+<div class="input-group clear" id="style">
+    <label for="style">Style</label>
+    <div class="select-group add-group">
+        <select>
+            <option value="select">Select a style...</option>
+                             <option>Abstract</option>
+                              <option>African</option>
+                              <option>Art Deco</option>
+                              <option>Art Nouveau</option>
+                              <option>Asian</option>
+                              <option>Athletic</option>
+                              <option>Avant Garde</option>
+                              <option>Beach</option>
+                              <option>Boho</option>
+                              <option>Burlesque</option>
+                              <option>Cottage Chic</option>
+                              <option>Country Western</option>
+                              <option>Edwardian</option>
+                              <option>Fantasy</option>
+                              <option>Folk</option>
+                              <option>Goth</option>
+                              <option>High Fashion</option>
+                              <option>Hip Hop</option>
+                              <option>Hippie</option>
+                              <option>Hipster</option>
+                              <option>Historical</option>
+                              <option>Hollywood Regency</option>
+                              <option>Industrial</option>
+                              <option>Kawaii</option>
+                              <option>Kitsch</option>
+                              <option>Mediterranean</option>
+                              <option>Mid Century</option>
+                              <option>Military</option>
+                              <option>Minimalist</option>
+                              <option>Mod</option>
+                              <option>Modern</option>
+                              <option>Nautical</option>
+                              <option>Neoclassical</option>
+                              <option>Preppy</option>
+                              <option>Primitive</option>
+                              <option>Regency</option>
+                              <option>Renaissance</option>
+                              <option>Resort</option>
+                              <option>Retro</option>
+                              <option>Rocker</option>
+                              <option>Rustic</option>
+                              <option>Sci Fi</option>
+                              <option>Southwestern</option>
+                              <option>Spooky</option>
+                              <option>Steampunk</option>
+                              <option>Techie</option>
+                              <option>Traditional</option>
+                              <option>Tribal</option>
+                              <option>Victorian</option>
+                              <option>Waldorf</option>
+                              <option>Woodland</option>
+                              <option>Zen</option>
+                         <optgroup label="Couldn't find a style?">
+                <option value="add">Add a style...</option>
+            </optgroup>
+        </select>
+        <div id="add-controls" style="display: none">
+            <input type="text" name="style_input" class="text" maxlength="45" />
+            <span class="button-medium"><span><input class="button-medium" type="button" value="Add"></span></span>
+            <a href="#" class="back-link">back to list</a>
+        </div>
+        <p class="original inline-message">Add up to 2 styles.<span class="optional">optional</span></p>
+    </div>
+    <div id="item-styles" class="tags">
+            </div>
+</div>            <hr/>
+
+
+
+INSERT INTO `anekart`.`anekart_styles` (`id`, `style_name`, `cretaed_on`) VALUES (NULL, 'African', NOW()), (NULL, 'Art Nouveau', NOW());

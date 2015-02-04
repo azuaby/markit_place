@@ -1,0 +1,15 @@
+#instacalc_bookmarklet_table{
+	background: none repeat scroll 0 0 white;
+    border: 1px solid #333333;
+    height: 231px;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    right: 8px;
+    top: 8px;
+    width: 275px;
+    z-index: 10000000;
+}
+
+
+

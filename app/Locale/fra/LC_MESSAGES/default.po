@@ -1,0 +1,2677 @@
+msgid "Welcome to"
+msgstr "Bienvenue sur "
+
+msgid "Discover amazing stuff, collect the things you love, buy it all in one place."
+msgstr "Découvrez des objets incroyables, collectionnez les choses que vous aimez, achetez-les toutes à un seul endroit."
+
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+msgid "Join"
+msgstr "Rejoignez"
+
+msgid "join"
+msgstr "rejoignez"
+
+msgid "today"
+msgstr "aujourd'hui"
+
+msgid "Have an account?"
+msgstr "Vous avez déjà un compte ?"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid " Learn more"
+msgstr "En savoir plus"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Sign In"
+msgstr "Connectez-vous"
+
+msgid "Sign in to "
+msgstr "S'inscrire à "
+
+msgid "Forgot password?"
+msgstr "Mot de passe oublié ?"
+
+msgid "Remember me "
+msgstr "Se souvenir de moi"
+
+msgid "Shop"
+msgstr "boutique"
+
+msgid "By Price"
+msgstr "Par Prix"
+
+msgid "By color"
+msgstr "Par couleur"
+
+msgid "Red"
+msgstr "Rouge"
+
+msgid "Pink"
+msgstr "Rose"
+
+msgid "Purple"
+msgstr "Violet"
+
+msgid "Blue"
+msgstr "Bleu"
+
+msgid "Sky blue"
+msgstr "Bleu ciel"
+
+msgid "Green"
+msgstr "Vert"
+
+msgid "Yellow"
+msgstr "Jaune"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Brown"
+msgstr "Marron"
+
+msgid "Black"
+msgstr "Noir"
+
+msgid "White"
+msgstr "Blanc"
+
+
+msgid "Silver"
+msgstr "Argent"
+
+msgid "Gold"
+msgstr "Or"
+
+msgid "By Category"
+msgstr "Par catégorie"
+
+
+msgid "Men's"
+msgstr "Pour homme"
+
+
+msgid "Women's"
+msgstr "Pour femme"
+
+msgid "Home"
+msgstr "maison"
+
+msgid "Giochi"
+msgstr "Jeux"
+
+msgid "Any Category"
+msgstr "Toute catégorie"
+
+msgid "Any Price"
+msgstr "Tout Prix"
+
+msgid "Any Color"
+msgstr "Toute couleur"
+
+msgid "Newest"
+msgstr "Le plus récents"
+
+msgid "Price: Low to High"
+msgstr "Prix: Ordre croissant"
+
+msgid "Price: High to Low"
+msgstr "Prix​​: Ordre décroissant"
+
+msgid "Filter by keyword"
+msgstr "Filtrer par mot clé"
+
+msgid "Scroll to Top"
+msgstr "Faites défiler jusqu'à Haut"
+
+msgid "Powered by"
+msgstr "Réalisé par le"
+
+msgid " Remember me "
+msgstr "Se souvenir de moi"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Items"
+msgstr "Articles"
+
+msgid "everything"
+msgstr "tous"
+
+msgid "Everything"
+msgstr "Tous"
+
+msgid "Classic View"
+msgstr "Vue Classique"
+
+
+msgid "Grid View"
+msgstr "Vue en Grille"
+
+msgid "Compact View"
+msgstr "Vue Compacte"
+
+
+msgid "Slideshow View"
+msgstr "Diaporama"
+
+
+msgid "Order from"
+msgstr "Commande de"
+
+msgid "Ship to"
+msgstr "Expédier à"
+
+msgid "Gift"
+msgstr "Cadeau"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+
+msgid "Delete this address"
+msgstr "Supprimer cette adresse"
+
+
+msgid "Add new shipping address"
+msgstr "Ajouter une nouvelle adresse d'expédition"
+
+
+msgid "Shipping"
+msgstr "Expédition"
+
+msgid "Note to Merchant "
+msgstr "Note à l'intention de Merchant"
+
+msgid "Optional"
+msgstr "Facultatif"
+
+msgid "This item is currently not available."
+msgstr "Cet article n'est actuellement pas disponible."
+
+msgid "You can leave the personalized note here"
+msgstr "vous pouvez laisser une note personnelle ici"
+
+msgid "Order"
+msgstr "Commander"
+
+msgid "Item total"
+msgstr "Totale de l'article"
+
+msgid "Tax"
+msgstr "Tax"
+
+msgid "Product"
+msgstr "Produit"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Quantity:"
+msgstr "quantité"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Cannot Ship this Product to your Location"
+msgstr "Pouvons pas expédier ce produit à votre emplacement"
+
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+msgid "share profile"
+msgstr "profil social"
+
+msgid "Find People"
+msgstr "Trouvez des gens "
+
+msgid "Follow people to discover new things."
+msgstr "Suivez les gens à découvrir de nouvelles choses."
+
+msgid "Social Networks"
+msgstr "Réseaux sociaux"
+
+msgid "Follow"
+msgstr "suivre"
+
+msgid " Follow on Twitter"
+msgstr " Suivez sur Twitter"
+
+
+msgid "help"
+msgstr "aider"
+
+
+msgid "Settings"
+msgstr "paramètres"
+
+
+msgid "Edit Profile Settings"
+msgstr "Modifiez les paramètres de votre profil"
+
+msgid "ACCOUNT"
+msgstr "COMPTE"
+
+msgid "Password"
+msgstr "mot de passe"
+
+msgid "Purchases"
+msgstr " Commandes"
+
+msgid "My Orders"
+msgstr "mes commandes"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Full Name"
+msgstr "Nom et Prénom"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Website"
+msgstr "Site Web"
+
+
+msgid "Location"
+msgstr "Emplacement"
+
+
+msgid "Birthday"
+msgstr "Anniversaire"
+
+msgid "About"
+msgstr "À propos"
+
+
+
+msgid "Age"
+msgstr "Âge"
+
+
+msgid "Male"
+msgstr "Homme"
+
+msgid "Female"
+msgstr "Femme"
+
+msgid "Unspecified"
+msgstr "Non spécifié"
+
+
+msgid "Change image"
+msgstr "changer l'image"
+
+msgid "Photo"
+msgstr "photo"
+
+
+
+msgid "Existing password"
+msgstr "mot de passe existant"
+
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"
+
+
+msgid "Save Profile"
+msgstr "sauvegarder le profil"
+
+
+msgid "Deactivate my account"
+msgstr "Désactiver mon compte"
+
+msgid "Gender"
+msgstr "Genre"
+
+
+
+
+msgid "Your real name, so your friends can find you."
+msgstr "Entrez votre véritable nom pour que vos amis vous retrouvent facilement."
+
+
+msgid "Write something about yourself."
+msgstr "Ecrivez quelque chose à propos de vous."
+
+msgid "We'll send you a surprise on your birthday!"
+msgstr "Nous vous enverrons une surprise le jour de votre anniversaire!"
+
+
+
+
+msgid "Email will not be publicly displayed."
+msgstr "L'adresse email ne sera pas affichée."
+
+
+msgid "Change Password"
+msgstr "Changer mon mot de passe"
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+
+
+
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"
+
+
+msgid "New password,"
+msgstr "Nouveau mot de passe,"
+
+
+msgid "at least 6 characters"
+msgstr "au moins 6 caractères"
+
+msgid "Confirm your new password"
+msgstr "Confirmez le nouveau mot de passe."
+
+
+
+
+msgid "Existing Password"
+msgstr "Mot de passe existant"
+
+
+msgid "Email settings"
+msgstr "Paramètres d'email"
+
+msgid "When someone follows you"
+msgstr "Quelqu'un me suit"
+
+
+
+
+msgid "When someone comments on a thing you added"
+msgstr "Quelqu'un accepte mon invitation"
+
+
+msgid "When one of your things is featured"
+msgstr "Une de mes découvertes est à l'affiche"
+
+msgid "Web and push settings"
+msgstr "Paramètres web et notifications "
+
+
+msgid "Friends activity"
+msgstr "Activité amis"
+
+
+msgid "When a friend add the items"
+msgstr "Quand un ami ajouter les articles"
+
+msgid "When a friend posts a comment"
+msgstr "Quand un ami poste un commentaire"
+
+
+msgid "Updates from Markit"
+msgstr "Mises à jour de la Markit"
+
+
+msgid "Send news about Markit"
+msgstr "Envoyer des nouvelles à propos de Markit"
+
+msgid "save changes"
+msgstr "enregistrer les modifications"
+
+
+msgid "MERCHANT"
+msgstr "MARCHAND"
+
+
+msgid "Merchant Information"
+msgstr "Informations marchand"
+
+msgid "Brand"
+msgstr "marque"
+
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+
+msgid "What is it?"
+msgstr "Qu'est-ce que c'est?"
+
+
+msgid "Select a Category"
+msgstr "Choisissez une catégorie"
+
+
+msgid "Upload Photos"
+msgstr "Télécharger des photos"
+
+
+msgid "Add Photos"
+msgstr "Ajoutez des photos"
+
+
+msgid "Item Title"
+msgstr "Titre de la publication"
+
+
+msgid "Item Description"
+msgstr "élément Description"
+
+
+msgid "Which gender the item for ?"
+msgstr "Quelle genre l'article pour?"
+
+
+msgid "Relationship"
+msgstr "relations"
+
+
+msgid "To whom is it for?"
+msgstr "A qui est-il destiné?"
+
+
+msgid "choose multiple by pressing ctrl"
+msgstr "choisir multiple en appuyant sur Ctrl"
+
+
+msgid "Price"
+msgstr "prix"
+
+
+msgid "$ USD"
+msgstr "€ EUR"
+
+
+msgid "Quantity"
+msgstr "Quantité"
+
+
+msgid "Shipping"
+msgstr "Livraison"
+
+
+msgid "Options for sizes"
+msgstr "Options pour les tailles"
+
+
+msgid "Shoes or T-shirts"
+msgstr "Chaussures ou T-shirts"
+
+
+msgid "optional"
+msgstr "optionnel"
+
+msgid "Ships from"
+msgstr "Expédié"
+
+msgid "Ships to"
+msgstr "navires à"
+
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Frequently Asked Questions"
+msgstr "Foire aux questions"
+
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+msgid "Select a topic"
+msgstr "Sélectionner un sujet"
+
+msgid "Order Number"
+msgstr "Numéro de Commande"
+
+msgid "Message"
+msgstr "message"
+
+msgid "Copyright Policy"
+msgstr "Politique de copyright"
+
+msgid "Terms of Sale"
+msgstr "Conditions de vente"
+
+msgid "Terms of Service"
+msgstr "Conditions d'utilisation"
+
+msgid "Terms and Conditions of Merchant Sale"
+msgstr "Conditions Générales de Vente Merchant"
+
+msgid "Privacy"
+msgstr "confidentialité"
+
+
+msgid "Resources"
+msgstr "Ressources"
+
+
+msgid "Gift Cards"
+msgstr "Cartes-cadeaux"
+
+
+msgid "Group Gifts"
+msgstr "Cadeaux de groupe"
+
+
+msgid "Recommendations"
+msgstr "recommandations"
+
+
+msgid "Near Me"
+msgstr "près de chez moi"
+
+
+msgid "KiloMeter"
+msgstr "kilomètre"
+
+
+msgid "KiloMeters"
+msgstr "kilomètres"
+
+
+msgid "All"
+msgstr "tout"
+
+
+msgid "Help"
+msgstr "aider"
+
+
+msgid "Contact Markit"
+msgstr "Contactez Markit"
+
+
+msgid "FAQ"
+msgstr "FAQ"
+
+
+msgid "Mobile"
+msgstr "mobile"
+
+
+msgid "Terms of service"
+msgstr "Conditions d'utilisation"
+
+
+msgid "Find Friends"
+msgstr "Rechercher des amis"
+
+
+msgid "Invite Friends"
+msgstr "inviter des amis"
+
+
+msgid "Group Gift List"
+msgstr "Groupe Liste de cadeaux"
+
+
+msgid "Track Orders"
+msgstr "Suivi de commandes"
+
+
+msgid "Group Gift List"
+msgstr "Groupe Liste de cadeaux"
+
+
+msgid "Sign out"
+msgstr "Déconnexion"
+
+
+msgid "others"
+msgstr "autres"
+
+
+msgid "Add to list"
+msgstr "Ajouter à la liste"
+
+
+msgid "Suggestions"
+msgstr "suggestions"
+
+
+msgid "Web"
+msgstr "toile"
+
+
+msgid "Upload"
+msgstr "Télécharger"
+
+
+msgid "Email"
+msgstr "email"
+
+
+msgid "others"
+msgstr "autres"
+
+
+msgid "Add from Web"
+msgstr "Ajouter à partir du Web"
+
+
+msgid "Enter an image link or a website address"
+msgstr "Entrez un lien d'image ou une adresse de site Web"
+
+
+msgid "Get Images"
+msgstr "obtenir des images"
+
+
+msgid "Go Back"
+msgstr "Retour"
+
+
+msgid "Thing Details"
+msgstr "chose Détails"
+
+
+msgid "Can be changed later"
+msgstr "Peut être changé plus tard"
+
+
+msgid "of"
+msgstr "de"
+
+
+msgid "Title"
+msgstr "titre"
+
+
+msgid "Price"
+msgstr "prix"
+
+
+msgid "Web Link"
+msgstr "Lien Web"
+
+
+msgid "Category"
+msgstr "catégorie"
+
+
+msgid "Choose a category"
+msgstr "Choisissez une catégorie"
+
+
+msgid "Save Details"
+msgstr "Enregistrer les détails"
+
+
+msgid "Scroll to Top"
+msgstr "Faites défiler jusqu'à Haut"
+
+
+msgid "Add to"
+msgstr "Ajouter à"
+
+
+msgid "Markit Social eCommerce"
+msgstr "Markit Social eCommerce"
+
+
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+
+msgid "Minimum 6 characters"
+msgstr "Minimum 6 caractères"
+
+
+msgid "by"
+msgstr "par"
+
+
+msgid "Similar colors"
+msgstr "couleurs similaires"
+
+
+msgid "Share"
+msgstr "part"
+
+
+msgid "Upload fashion"
+msgstr "Téléchargez la mode"
+
+
+msgid "comments"
+msgstr "commentaires"
+
+
+msgid "Hide comments"
+msgstr "Masquer les commentaires"
+
+
+msgid "There is no comment yet for this product"
+msgstr "Il n'ya pas encore de commentaire pour ce produit"
+
+
+msgid "Save comment"
+msgstr "enregistrer un commentaire"
+
+
+msgid "Edit"
+msgstr "Modifier"
+
+
+msgid "Delete"
+msgstr "effacer"
+
+
+msgid "Comment"
+msgstr "commentaire"
+
+
+msgid "Use @ to mention someone"
+msgstr "Utilisez @ parler à quelqu'un"
+
+
+msgid "Post comment"
+msgstr "Poster un commentaire"
+
+
+msgid "Other things you might"
+msgstr "D'autres choses que vous pourriez"
+
+
+msgid "Recently"
+msgstr "récemment"
+
+
+msgid "By"
+msgstr "par"
+
+
+msgid "No Items Found"
+msgstr "Pas d'éléments trouvés"
+
+
+msgid "Be the first one to like this.."
+msgstr "Soyez le premier à aimer ce .."
+
+
+msgid "more"
+msgstr "plus"
+
+
+msgid "Buy It"
+msgstr "achat"
+
+
+msgid "Actions"
+msgstr "actes"
+
+
+msgid "More info"
+msgstr "plus d'infos"
+
+
+msgid "Similar Color"
+msgstr "Couleur similaire"
+
+
+msgid "Sell It"
+msgstr "Vendez Il"
+
+
+msgid "Quantity"
+msgstr "quantité"
+
+
+msgid "Sold Out"
+msgstr "épuisé"
+
+
+msgid "Select Size"
+msgstr "Choisir la taille"
+
+
+msgid "Select Quantity"
+msgstr "Sélectionnez Quantité"
+
+
+msgid "Create Group Gift"
+msgstr "Créez cadeau Groupe"
+
+
+msgid "OR"
+msgstr "OU"
+
+
+msgid "Add to Cart"
+msgstr "Ajouter au panier"
+
+
+msgid "Contact Seller"
+msgstr "Contacter le vendeur"
+
+
+msgid "Be the first person to add fashion photo"
+msgstr "Soyez la première personne à ajouter photo de mode"
+
+
+msgid "Upload fashion"
+msgstr "Téléchargez la mode"
+
+
+msgid "You can upload your photos taken when using this product. It will be approved by the seller to make it public"
+msgstr "Vous pouvez télécharger vos photos prises lors de l'utilisation de ce produit. Il sera approuvé par le vendeur de la rendre publique"
+
+
+msgid "Create"
+msgstr "créer"
+
+
+msgid "Done"
+msgstr "Terminé"
+
+
+msgid "unfantacy"
+msgstr "unfantacy"
+
+
+msgid "Create New List"
+msgstr "Créer une nouvelle liste"
+
+
+msgid "Select category"
+msgstr "Sélectionnez la catégorie"
+
+
+msgid "Contributors"
+msgstr "Contributeurs"
+
+
+msgid "Invite"
+msgstr "inviter"
+
+
+msgid "Creator"
+msgstr "créateur"
+
+
+msgid "Create list"
+msgstr "créer liste"
+
+
+
+msgid "Cancel"
+msgstr "annuler"
+
+
+
+msgid "Share This Thing"
+msgstr "Partager cette chose"
+
+
+
+msgid "Creator"
+msgstr "créateur"
+
+
+
+msgid "Profile"
+msgstr "Profil"
+
+
+
+msgid "Disputes"
+msgstr "différends"
+
+
+
+msgid "Messages"
+msgstr "messages"
+
+
+
+msgid "Add Shipping"
+msgstr "Ajouter expédition"
+
+
+
+msgid "MERCHANT"
+msgstr "MARCHAND"
+
+
+msgid "Information"
+msgstr "informations"
+
+
+msgid "My Sales"
+msgstr "mes ventes"
+
+
+msgid "SHARING"
+msgstr "PARTAGE"
+
+
+msgid "Credits"
+msgstr "crédits"
+
+
+msgid "Referrals"
+msgstr "Parrainages"
+
+
+msgid "Gift card"
+msgstr "Carte-cadeau"
+
+
+msgid "Create a Group Gift"
+msgstr "Un cadeau de création de groupe"
+
+
+msgid "Choose Recipient"
+msgstr "Choisissez bénéficiaire"
+
+
+msgid "Personalize"
+msgstr "personnaliser"
+
+
+msgid "Ask for Contributions"
+msgstr "Demandez Contributions"
+
+
+msgid "Enter manuall"
+msgstr "Entrez manuall"
+
+
+msgid "Recipient"
+msgstr "destinataire"
+
+
+msgid "Full Name"
+msgstr "nom et prénom"
+
+
+msgid "Address"
+msgstr "adresse"
+
+
+msgid "Address2"
+msgstr "adresse2"
+
+
+msgid "Country"
+msgstr "pays"
+
+
+msgid "State"
+msgstr "état"
+
+
+msgid "City"
+msgstr "ville"
+
+
+msgid "Zipcode"
+msgstr "code postal"
+
+
+msgid "Telephone"
+msgstr "téléphone"
+
+
+msgid "How it works"
+msgstr "Comment ça marche"
+
+
+msgid "Fill in details for group gift"
+msgstr "Remplissez les détails pour le cadeau de groupe"
+
+
+msgid "Goal Total"
+msgstr "total Objectif"
+
+
+msgid "Item total"
+msgstr "Totale de l'article"
+
+
+msgid "Tax"
+msgstr "impôt"
+
+
+msgid "Description"
+msgstr "description"
+
+
+msgid "Use your group gift description to share more about who you’re raising contributions for and why"
+msgstr "Utilisez votre groupe Description de cadeau à partager plus sur qui vous augmenter les cotisations et pourquoi"
+
+
+msgid "Enter the Title"
+msgstr "Entrez le titre"
+
+
+msgid "Enter the Description"
+msgstr "Entrez la description"
+
+
+msgid "Ask your friends to contribute"
+msgstr "Demandez à vos amis de contribuer"
+
+
+msgid "Group gift summary"
+msgstr "Groupe résumé cadeau"
+
+
+msgid "Group Gift Total"
+msgstr "Gift Group totale"
+
+
+msgid "This group gift will be valid for 7 days."
+msgstr "Ce cadeau de groupe sera valable pendant 7 jours."
+
+
+msgid "Video"
+msgstr "vidéo"
+
+
+msgid "Add Your Fashion on this product"
+msgstr "Ajoutez votre mode sur ce produit"
+
+
+msgid "Users"
+msgstr "utilisateurs"
+
+
+msgid "Similar Users"
+msgstr "utilisateurs similaires"
+
+
+msgid "Search for Peoples"
+msgstr "Recherche pour les peuples"
+
+
+msgid "Search results for"
+msgstr "Résultats de recherche pour"
+
+
+msgid "No body  found"
+msgstr "Aucun corps retrouvé"
+
+
+msgid "Search something related"
+msgstr "Rechercher quelque chose de connexe"
+
+
+msgid "Follow top contributors from topics you’re interested in"
+msgstr "Suivez principaux contributeurs de sujets qui vous intéressent"
+
+
+msgid "Similar Users"
+msgstr "utilisateurs similaires"
+
+
+msgid "Find people with similar taste as yourself."
+msgstr "Trouver des gens avec des goûts similaires comme toi-même."
+
+
+msgid "Group Gift Lists"
+msgstr "Listes de cadeaux de groupe"
+
+
+msgid "Name"
+msgstr "nom"
+
+
+msgid "Status"
+msgstr "statut"
+
+
+msgid "Start date"
+msgstr "Date de début"
+
+
+msgid "End date"
+msgstr "Date de fin"
+
+
+msgid "Contribution"
+msgstr "contribution"
+
+
+msgid "Cancelled"
+msgstr "Annulé"
+
+
+msgid "Completed"
+msgstr "terminé"
+
+
+msgid "Expired"
+msgstr "expiré"
+
+
+msgid "You haven’t created Group Gift yet."
+msgstr "Vous n'avez pas encore créé cadeau groupe."
+
+
+msgid "Contact"
+msgstr "Contacter"
+
+
+msgid "Copyright Policy"
+msgstr "Politique des droits d'auteur"
+
+
+msgid "send"
+msgstr "envoyer"
+
+
+msgid "This is a short list of our most frequently asked questions. For more information about Markit, or if you need support, please"
+msgstr "Il s'agit d'une courte liste de questions les plus fréquemment posées. Pour plus d'informations sur Markit, ou si vous avez besoin de soutien, s'il vous plaît"
+
+
+msgid "What is Markit ?"
+msgstr "Quelle est Markit?"
+
+
+msgid "How to signup for Markit ?"
+msgstr "Comment enregistrez-vous pour Markit?"
+
+
+msgid "How to Markit an item ?"
+msgstr "Comment FANTACY un article?"
+
+
+msgid "How to view items you have Markit"
+msgstr "Comment faire pour afficher les articles que vous avez Markit"
+
+
+msgid "How to create and edit lists ?"
+msgstr "Comment créer et modifier des listes?"
+
+
+msgid "Follow Markit ?"
+msgstr "Suivez Markit?"
+
+
+msgid "Profile & Account"
+msgstr "Profil et compte"
+
+
+msgid "How to change your profile picture ?"
+msgstr "Comment changer votre photo de profil?"
+
+
+msgid "How to change your email address ?"
+msgstr "Comment changer votre adresse e-mail?"
+
+
+msgid "How to change your username ?"
+msgstr "Comment changer votre nom d'utilisateur?"
+
+
+msgid "How to reset your password  ?"
+msgstr "Comment réinitialiser votre mot de passe?"
+
+
+msgid "How to make your profile private ?"
+msgstr "Comment rendre votre profil privé?"
+
+
+msgid "How to deactivate your Markit account ?"
+msgstr "Comment désactiver votre compte Markit?"
+
+
+msgid "Merchants"
+msgstr "Merchants"
+
+
+msgid "How to become a Markit seller ?"
+msgstr "Comment devenir un vendeur de Markit?"
+
+
+msgid "Add to Markit"
+msgstr "Ajouter à Markit"
+
+
+msgid "Be a part of the Markit community and add your favorite things."
+msgstr "Faites partie de la communauté Markit et ajouter vos activités préférées."
+
+
+msgid "Markit It" 
+msgstr "Il Markit "
+
+
+msgid "Button"
+msgstr "bouton"
+
+
+msgid "into your Bookmarks Bar"
+msgstr "dans votre barre des signets"
+
+
+msgid "The bookmarklet lets you save things and products from any site to your own Markit catalog."
+msgstr "Le bookmarklet vous permet d'enregistrer les choses et les produits de n'importe quel site à votre propre catalogue Markit."
+
+
+msgid "To install the "Markit It" bookmarklet in Chrome, follow these steps:"
+msgstr "Pour installer le bookmarklet "Markit Il" dans Chrome, procédez comme suit:"
+
+
+msgid "Drag bookmarklet"
+msgstr "Faites glisser bookmarklet"
+
+
+msgid "Drag the blue"
+msgstr "Faites glisser le bleu"
+
+
+msgid "You’re finished"
+msgstr "Vous avez terminé"
+
+
+msgid "When you are browsing a webpage, click"
+msgstr "Lorsque vous naviguez sur une page Web, cliquez sur"
+
+
+msgid "to add things to your personal catalog."
+msgstr "d'ajouter des choses à votre catalogue personnel."
+
+
+msgid "Copyrights Heading"
+msgstr "Copyrights Rubrique"
+
+
+msgid "Feel free to contact us with service questions, business proposals or media inquiries."
+msgstr "N'hésitez pas à nous contacter pour des questions de service, des propositions d'affaires ou demandes des médias."
+
+
+msgid "Contact Address"
+msgstr "adresse de contact"
+
+
+msgid "Markit, Inc."
+msgstr "Markit, Inc."
+
+
+msgid "354 Royals Road"
+msgstr "354 Royals route"
+
+
+msgid "Canada"
+msgstr "Canada"
+
+
+msgid "Email Markit Support"
+msgstr "Email Markit soutien"
+
+
+msgid "We'll get back to you as soon as possible."
+msgstr "Nous reviendrons vers vous dès que possible"
+
+
+msgid "Your Email Address"
+msgstr "Votre adresse e-mail"
+
+
+msgid "User account"
+msgstr "Compte d'utilisateur"
+
+
+msgid "Forgot my password"
+msgstr "J'ai oublié mon mot de passe"
+
+
+msgid "Order Inquiry"
+msgstr "commande Demande"
+
+
+msgid "Payment Issues"
+msgstr "Problèmes de paiement"
+
+
+msgid "Returns and Refunds"
+msgstr "Retours et remboursements"
+
+
+msgid "Markit Site Features"
+msgstr "Caractéristiques Markit du site"
+
+
+msgid "Markit Mobile Features"
+msgstr "Caractéristiques Markit mobile"
+
+
+msgid "Partnership Opportunities"
+msgstr "Opportunités de partenariat"
+
+
+msgid "Copyright Issue"
+msgstr "Droits d'auteur Publication"
+
+
+msgid "Submit"
+msgstr "soumettre"
+
+
+msgid "Use this link to share on Twitter, Facebook or in an Email."
+msgstr "Utilisez ce lien pour partager sur Twitter, Facebook ou dans un e-mail."
+
+
+msgid "We won't share your contacts with anybody or email anyone without your consent."
+msgstr "Nous ne partagerons pas vos contacts avec qui que ce soit ou par courriel sans votre consentement."
+
+
+msgid "Referral link was copied to clipboard."
+msgstr "Lien de parrainage a été copié dans le presse-papiers."
+
+
+msgid "Earn more credits by sharing your link with friends on social networks"
+msgstr "Gagner plus de crédits en partageant votre lien avec vos amis sur les réseaux sociaux"
+
+msgid "Invite your friends to Fancy via email"
+msgstr "Invitez vos amis à Fantaisie par e-mail"
+
+
+msgid "Enter your friends email address"
+msgstr "Entrez votre adresse e-mail des amis"
+
+
+msgid "Add a personal note (optional)"
+msgstr "Ajouter une note personnelle (facultatif)"
+
+
+msgid "Send Invites"
+msgstr "Envoyer les invitations"
+
+
+msgid "Invites Sent!"
+msgstr "Invitations envoyées!"
+
+
+msgid "Bonus"
+msgstr "prime"
+
+
+msgid "You will be rewarded with"
+msgstr "Vous serez récompensé avec"
+
+
+msgid "if your friend signs up and makes a purchase within 60 days"
+msgstr "si votre ami s'inscrit et fait un achat dans les 60 jours"
+
+
+msgid "User Contacts"
+msgstr "Contacts de l'utilisateur"
+
+
+msgid "Invite friends and family to"
+msgstr "Invitez vos amis et votre famille à"
+
+
+msgid "Select the people you want to invite to"
+msgstr "Select Les PERSONNES Qué Vous souhaitez inviter à de"
+
+
+msgid "Order"
+msgstr "ordre"
+
+msgid "Products"
+msgstr "produits"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Sale Date"
+msgstr "Date de vente"
+
+msgid "Status"
+msgstr "statut"
+
+msgid "Options"
+msgstr "options de"
+
+msgid "Mark Process"
+msgstr "Mark processus"
+
+msgid "Mark Shipped"
+msgstr "Mark Expédié"
+
+msgid "Add Tracking"
+msgstr "Ajouter le suivi"
+
+msgid "View invoice"
+msgstr "Voir facture"
+
+msgid "Contact Buyer"
+msgstr "Contactez Acheteur"
+
+msgid "Load More"
+msgstr "Chargez Plus"
+
+msgid "No Orders Found"
+msgstr "Pas de commande trouvés"
+
+msgid "Order Date"
+msgstr "date de commande"
+
+msgid "More Actions"
+msgstr "plus de possibilités"
+
+msgid "View Details"
+msgstr "Voir les détails"
+
+msgid "Mark Received"
+msgstr "note reçue"
+
+msgid "Contact Seller"
+msgstr "Contacter le vendeur"
+
+msgid "From"
+msgstr "à partir de"
+
+
+msgid "To"
+msgstr "à"
+
+
+msgid "Item"
+msgstr "article"
+
+
+msgid "Subject"
+msgstr "sujet"
+
+
+msgid "Action"
+msgstr "action"
+
+
+msgid "Load more message"
+msgstr "Chargez plus un message"
+
+
+msgid "Message Box Empty"
+msgstr "Message Box vide"
+
+
+msgid "send"
+msgstr "envoyer"
+
+
+msgid "Receive"
+msgstr "recevoir"
+
+
+msgid "Product Name"
+msgstr "Nom du produit"
+
+
+msgid "Order Id"
+msgstr "Classement Id"
+
+
+msgid "Order Problem"
+msgstr "afin problème"
+
+
+msgid "Message"
+msgstr "message"
+
+
+msgid "Actions"
+msgstr "actes"
+
+
+msgid "View"
+msgstr "Voir"
+
+
+msgid "No Conversation Found"
+msgstr "Pas de conversation Trouvé"
+
+msgid "View Disputes"
+msgstr "Voir différends"
+
+msgid "Create Disputes"
+msgstr "créer différends"
+
+msgid "Load More"
+msgstr "Chargez Plus"
+
+msgid "Pending"
+msgstr "en attendant"
+
+
+msgid "Sender"
+msgstr "expéditeur"
+
+
+msgid "Receiver"
+msgstr "récepteur"
+
+
+msgid "Date"
+msgstr "date"
+
+
+msgid "Total Amount"
+msgstr "Montant total"
+
+
+msgid "Avl.Amount"
+msgstr "Avl.Amount"
+
+
+msgid "Key"
+msgstr "clé"
+
+
+msgid "Available Credits"
+msgstr "Crédits disponibles"
+
+
+msgid "Credit Summary"
+msgstr "Sommaire de crédit"
+
+
+msgid "Credits can be applied on your purchases during checkout"
+msgstr "Crédits peuvent être appliqués sur vos achats lors de votre commande"
+
+
+msgid "Credit History"
+msgstr "Histoire de crédit"
+
+
+msgid "Amount"
+msgstr "montant"
+
+
+msgid "Invited"
+msgstr "invité"
+
+
+msgid "Contact Seller Conversations"
+msgstr "Conversations Contactez le vendeur"
+
+
+msgid "Shipping Address"
+msgstr "adresse de livraison"
+
+
+msgid "Your Saved Shipping Addresses"
+msgstr "Vos sauvegardes expédition"
+
+
+msgid "Nickname"
+msgstr "Par défaut"
+
+
+msgid "Phone"
+msgstr "téléphone"
+
+
+msgid "Default Address"
+msgstr "adresse par défaut"
+
+
+msgid "Save"
+msgstr "sauver"
+
+
+msgid "Bank Information"
+msgstr "Bank Information"
+
+
+msgid "Paypal Id"
+msgstr "Paypal Id"
+
+
+msgid "Seller Address"
+msgstr "vendeur d'adresses"
+
+
+msgid "Latitude"
+msgstr "latitude"
+
+
+msgid "Longitude"
+msgstr "longitude"
+
+
+msgid "To find the latitude and longitude of a point Click on the map, Drag the marker, or enter the..."
+msgstr "Pour trouver la latitude et la longitude d'un point Cliquez sur la carte, faites glisser le marqueur, ou entrer dans le ..."
+
+
+msgid "Update"
+msgstr "mettre à jour"
+
+
+msgid "Go"
+msgstr "aller"
+
+
+msgid "Markit crédits"
+msgstr "Crédits de Markit"
+
+
+msgid "Your Credit amount is empty."
+msgstr "Le montant de votre crédit est vide."
+
+
+msgid "Earn more credits by"
+msgstr "Gagner plus de crédits par"
+
+
+msgid "Markit Gift Card"
+msgstr "Carte-cadeau Markit"
+
+
+msgid "Follower"
+msgstr "disciple"
+
+
+msgid "Following"
+msgstr "suivant"
+
+
+msgid "Edit profile"
+msgstr "Editer le profil"
+
+
+msgid "Lists"
+msgstr "Listes"
+
+
+msgid "Want it"
+msgstr "Je le veux"
+
+
+msgid "Own it"
+msgstr "posséder"
+
+
+msgid "News"
+msgstr "nouvelles"
+
+
+msgid "User Fashion"
+msgstr "Mode de l'utilisateur"
+
+
+msgid "Invite Friends to"
+msgstr "Inviter des amis à"
+
+
+msgid "Social network"
+msgstr "réseau social"
+
+
+msgid "Invite friends to Markit from your social networks"
+msgstr "Vrienden uitnodigen om Markit van je sociale netwerken"
+
+
+msgid "We wont share your contacts with anybody or email anyone without your consent."
+msgstr "Nous n'allons pas partager vos contacts avec qui que ce soit ou par courriel sans votre consentement."
+
+
+msgid "Referral link"
+msgstr "lien de parrainage"
+
+
+msgid "Invite via email"
+msgstr "Inviter par e-mail"
+
+
+msgid "Copy link"
+msgstr "Copier le lien"
+
+
+msgid "Users who own this"
+msgstr "Les utilisateurs qui possèdent ce"
+
+
+msgid "More from"
+msgstr "Plus de '"
+
+
+msgid "I want it"
+msgstr "Je le veux"
+
+
+msgid "I own it"
+msgstr "Je l'avoue"
+
+
+msgid "You want it"
+msgstr "Vous voulez"
+
+
+msgid "You own it"
+msgstr "Vous êtes propriétaire"
+
+
+msgid "One business day"
+msgstr "Un jour ouvrable"
+
+
+msgid "Two business days"
+msgstr "Deux jours ouvrables"
+
+
+msgid "Three business days"
+msgstr "Trois jours ouvrables"
+
+
+msgid "Four business days"
+msgstr "Quatre jours ouvrables"
+
+
+msgid "One-Two weeks"
+msgstr "Une-deux semaines"
+
+
+msgid "Two-Three weeks"
+msgstr "Deux-trois semaines"
+
+
+msgid "Three-Four weeks"
+msgstr "Trois-Quatre semaines"
+
+
+msgid "Four-Six weeks"
+msgstr "Quatre-six semaines"
+
+
+msgid "Six-Eight weeks"
+msgstr "Six-Huit semaines"
+
+
+msgid "Write a comment..."
+msgstr "Ecrire un commentaire ..."
+
+
+msgid "Report inappropriate"
+msgstr "rapport inapproprié"
+
+
+msgid "Undo reporting"
+msgstr "annuler rapports"
+
+
+msgid "Select Size"
+msgstr "Choisir la taille"
+
+
+msgid "You"
+msgstr "vous"
+
+
+
+msgid "Updates"
+msgstr "Mises à jour"
+
+
+msgid "Send news about Fantasy"
+msgstr "Envoyez des nouvelles à propos de Fantasy"
+
+
+msgid "Dispute Management"
+msgstr "Gestion des différends"
+
+
+msgid "Seller"
+msgstr "vendeur"
+
+
+msgid "Whats the Problem"
+msgstr "Quel est le problème"
+
+
+msgid "choose one"
+msgstr "choisir un"
+
+
+msgid "Add Shipping Address"
+msgstr "Ajouter l'adresse d'expédition"
+
+
+msgid "Discount"
+msgstr "réduction"
+
+
+msgid "Size"
+msgstr "taille"
+
+
+msgid "Coupon codes:"
+msgstr "Codes promos:"
+
+
+msgid "Gift Card codes"
+msgstr "Codes de cartes-cadeaux"
+
+
+msgid "Selected Address:"
+msgstr "Adresse sélectionné:"
+
+
+msgid "Add new address"
+msgstr "Ajouter une nouvelle adresse"
+
+
+msgid "Use Credit Amount"
+msgstr "Utilisez Montant de crédit"
+
+
+msgid "Please Remove the Product that cannot be Shipped to your Location or Give a Different Address to make a Checkout"
+msgstr "S'il vous plaît enlever le produit qui ne peut pas être expédié à votre adresse ou donner une adresse différente de faire une extraction"
+
+
+msgid "Please Remove the Product which is sold out to make a Checkout"
+msgstr "S'il vous plaît enlever le produit qui est vendu pour faire un Commander"
+
+
+msgid "Your Shopping Cart is Empty"
+msgstr "Votre panier est vide"
+
+
+msgid "Don’t miss out on awesome sales right here on Trend. Let’s fill that cart, shall we?"
+msgstr "Ne manquez pas sur les ventes impressionnantes ici sur la tendance. Remplissons que panier, allons-nous?"
+
+
+msgid "Using Credit amount"
+msgstr "Le nombre de crédit"
+
+
+msgid "Your credit amount"
+msgstr "Le montant de votre crédit"
+
+
+msgid "Maximum credit you can use for this purchase"
+msgstr "Crédit maximum que vous pouvez utiliser pour cet achat"
+
+
+msgid "Enter amount"
+msgstr "Saisissez le montant"
+
+
+msgid "Your credit amount is empty"
+msgstr "Le montant de votre crédit est vide"
+
+
+msgid "Apply"
+msgstr "appliquer"
+
+
+msgid "Checkout with Paypal"
+msgstr "Paiement sécurisé par Paypal"
+
+
+msgid "You have"
+msgstr "vous avez"
+
+
+msgid "Items in your Cart"
+msgstr "Articles dans votre panier"
+
+
+msgid "Have a coupon code?"
+msgstr "Vous avez un code promo?"
+
+
+msgid "Have a Gift Card code?"
+msgstr "Vous avez un code de carte-cadeau?"
+
+
+msgid "Year"
+msgstr "année"
+
+
+msgid "Month"
+msgstr "mois"
+
+
+msgid "Day"
+msgstr "jour"
+
+
+msgid "We will send you a surprise on your birthday"
+msgstr "Nous vous enverrons une surprise pour votre anniversaire"
+
+
+msgid "Write something about yourself"
+msgstr "Écrire quelque chose sur vous-même"
+
+
+msgid "Order Details"
+msgstr "Détails de la commande"
+
+
+msgid "Total Amount Paid"
+msgstr "Montant total payé"
+
+
+msgid "Tracking Details"
+msgstr "Suivi de détails"
+
+
+msgid "Shipment Date"
+msgstr "date d'expédition"
+
+
+msgid "Tracking Id"
+msgstr "Suivi Id"
+
+
+msgid "Logestic Name"
+msgstr "Nom Logestic"
+
+
+msgid "Shipment Service"
+msgstr "Service envoi"
+
+
+msgid "Additional Notes"
+msgstr "notes complémentaires"
+
+
+msgid "Not yet updated"
+msgstr "Pas encore mis à jour"
+
+
+msgid "Product Details"
+msgstr "Détails sur le produit"
+
+
+msgid "Item Details"
+msgstr "Détails de l'article"
+
+
+msgid "Item Price"
+msgstr "Prix ​​de l'article"
+
+
+msgid "Shipping Price"
+msgstr "Frais de port Prix"
+
+
+msgid "Total Price"
+msgstr "Prix ​​total"
+
+
+msgid "Qty"
+msgstr "Quantité"
+
+
+msgid "Unit Price"
+msgstr "Prix ​​unitaire"
+
+
+msgid "See Conversation"
+msgstr "voir Conversation"
+
+
+msgid "Contact Seller"
+msgstr "Contacter le vendeur"
+
+
+msgid "Conversation with seller"
+msgstr "Conversation avec le vendeur"
+
+
+msgid "Load more comment"
+msgstr "Chargez plus commentaire"
+
+
+msgid "Previous Messages"
+msgstr "Messages précédents"
+
+
+msgid "No Conversation Found"
+msgstr "Pas de conversation Trouvé"
+
+
+msgid "Dispute As Buyer"
+msgstr "Comme différends Acheteur"
+
+
+msgid "Order ID"
+msgstr "Numéro de commande"
+
+
+msgid "Send"
+msgstr "envoyer"
+
+
+msgid "Dispute As Seller"
+msgstr "Différends Comme Vendeur"
+
+
+msgid "Default"
+msgstr "Par défaut"
+
+
+msgid "Select Country"
+msgstr "Sélectionnez un pays"
+
+
+msgid "Phone No"
+msgstr "N ° de téléphone"
+
+
+msgid "Make this as Default"
+msgstr "Faire cela comme défaut"
+
+
+msgid "From one month range"
+msgstr "De gamme d'un mois"
+
+
+msgid "View old orders"
+msgstr "Voir anciens ordres"
+
+
+msgid "Sales History"
+msgstr "Historique des ventes"
+
+
+msgid "View recent orders"
+msgstr "Voir commandes récentes"
+
+
+msgid "Add Tracking Details"
+msgstr "Ajouter Suivi Détails"
+
+
+msgid "Buyer Details"
+msgstr "Détails de l'acheteur"
+
+
+msgid "Edit Tracking Details"
+msgstr "Modifier suivi détails"
+
+
+msgid "Invoice"
+msgstr "facture"
+
+
+msgid "on"
+msgstr "sur"
+
+
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+
+msgid "Payment Status"
+msgstr "Statut de paiement"
+
+
+msgid "Payment to"
+msgstr "paiement à l'"
+
+
+msgid "Sl no"
+msgstr "Sl pas"
+
+
+msgid "Item Name"
+msgstr "Nom de l'article"
+
+
+msgid "Item Quantity"
+msgstr "article Quantité"
+
+
+msgid "Item Unitprice"
+msgstr "Point prixUnitaire"
+
+
+msgid "Shipping fee"
+msgstr "Frais d'expédition"
+
+
+msgid "Coupon Discount"
+msgstr "Remise promo"
+
+
+msgid "Credit Discount"
+msgstr "Remise de crédit"
+
+
+msgid "Grand Total"
+msgstr "total"
+
+
+msgid "Mark as Shipped"
+msgstr "Marquer comme Expédié"
+
+
+
+msgid "Conversation with buyer"
+msgstr "Conversation avec l'acheteur"
+
+
+msgid "Please enter correct email and password"
+msgstr "S'il vous plaît entrez l'email et le mot de passe correct"
+
+
+msgid "username already exists"
+msgstr "nom d'utilisateur existe déjà" 
+
+
+msgid "Email already exists"
+msgstr "Email existe déjà"
+
+
+msgid "An email was sent to your mail box, please activate your account and login."
+msgstr "Un e-mail a été envoyé à votre boîte mail, s'il vous plaît activer votre compte et vous identifier."
+
+
+msgid "Password sent. Check your email immediately."
+msgstr "Mot de passe envoyé. Vérifiez votre e-mail immédiatement."
+
+
+msgid "Email id is not found Please register to our site."
+msgstr "Email id n'est pas trouvé S'il vous plaît inscrivez-vous à notre site."
+
+
+msgid "Your account is Verified, please login and continue"
+msgstr "Votre compte est vérifié, s'il vous plaît connecter et continuer"
+
+
+msgid "Your account was already Verified"
+msgstr "Votre compte a déjà été vérifiée"
+
+
+msgid "You are not authenticated.Please signup"
+msgstr "Vous n'êtes pas authenticated.Please inscription"
+
+
+msgid "Sorry, something went wrong"
+msgstr "Désolé, quelque chose s'est mal passé"
+
+
+msgid "You are not authenticate to edit others profile."
+msgstr "Vous n'êtes pas authentifié à modifier le profil d'autres."
+
+
+msgid "You cannot follow yourself"
+msgstr "Vous ne pouvez pas vous suivre"
+
+
+msgid "Dispute Created"
+msgstr "Crée différends"
+
+
+msgid "Successfully Updated"
+msgstr "Mise à jour avec succès"
+
+
+msgid "Password updated successfully."
+msgstr "Mot de passe mis à jour avec succès."
+
+
+msgid "Existing password is incorrect"
+msgstr "Mot de passe existant est incorrect"
+
+
+msgid "Successfully Updated"
+msgstr "Mise à jour avec succès"
+
+
+msgid "Merchant Updated"
+msgstr "Merchant Mise à jour"
+
+
+msgid "Admin Approval Pending"
+msgstr "Administrateur attente d'être approuvé"
+
+msgid "Note:"
+msgstr "Remarque:"
+
+msgid "You need to signup this seller form to add your product for sales in this website. You are signup will be approved by the admin in 24 hours of working time and after successful approval, you can add your products and it's details."
+msgstr "Vous devez s'inscrire cette forme de vendeur pour ajouter votre produit à la vente sur ce site. Vous enregistrez sera approuvé par l'administrateur dans les 24 heures de temps de travail et après approbation succès, vous pouvez ajouter vos produits et c'est détails."
+
+msgid "Your account has been disbled please contact our support"
+msgstr "Votre compte a été disbled s'il vous plaît contacter notre support"
+
+msgid "Something went wrong, please try again."
+msgstr "Quelque chose s'est mal passé, s'il vous plaît essayer à nouveau."
+
+
+
+msgid "Please enter the Username"
+msgstr "S'il vous plaît entrez le nom d'utilisateur"
+
+msgid "Please enter the Email"
+msgstr "S'il vous plaît entrer le courriel"
+
+msgid "Username already exists"
+msgstr "Nom d'utilisateur existe déjà"
+
+msgid "Email already exists"
+msgstr "Email existe déjà"
+
+msgid "Something went wrong, please try again."
+msgstr "Quelque chose s'est mal passé, s'il vous plaît essayer à nouveau."
+
+msgid "Invite sent successfully"
+msgstr "Invitez envoyé avec succès"
+
+msgid "Successfully login"
+msgstr "succès connecter"
+
+msgid "Please activate your account by the email sent to you"
+msgstr "S'il vous plaît activer votre compte par l'e-mail envoyé"
+
+msgid "Your account has been disbled please contact our support"
+msgstr "Votre compte a été disbled s'il vous plaît contacter notre support" 
+
+
+msgid "Comment:"
+msgstr "Commentaire:"
+
+
+msgid "Value"
+msgstr "valeur"
+
+
+msgid "Select Value"
+msgstr "Sélectionnez Valeur"
+
+
+msgid "Please Enter the Recipient’s name"
+msgstr "S'il vous plaît Entrez le nom du bénéficiaire"
+
+
+msgid "Recipent’s email address"
+msgstr "L'adresse email de recipent"
+
+
+msgid "Please Enter the Recipient’s Email"
+msgstr "S'il vous plaît Entrez le e-mail du destinataire"
+
+
+msgid "Please Enter the Valid Recipient’s Email"
+msgstr "S'il vous plaît Entrez le e-mail du destinataire valide"
+
+
+msgid "Personal message"
+msgstr "Message personnel"
+
+
+msgid "Please Enter Message"
+msgstr "S'il vous plaît entrer un message"
+
+
+msgid "View all"
+msgstr "voir tous"
+
+
+msgid "Start a Group Gift Today"
+msgstr "Un cadeau Groupe Commencez dès aujourd'hui"
+
+
+msgid "Gather your friends and give amazing gifts from Markit to people you love."
+msgstr "Rassemblez vos amis et donner des cadeaux étonnants de Markit aux gens que vous aimez."
+
+
+msgid "Contribute"
+msgstr "contribuer"
+
+
+msgid "Pick any item, contribute any amount. You"
+msgstr "Choisissez n'importe quel article, verser tout montant. vous"
+
+
+msgid "re only charged if the group gift is successful."
+msgstr "re ne chargé si le cadeau de groupe est réussie."
+
+
+msgid "Success"
+msgstr "succès"
+
+
+msgid "Invite your friends to contribute. Once you meet your target, Markit will take care of the rest!"
+msgstr "Invitez vos amis à contribuer. Une fois que vous remplissez votre cible, Markit prendra soin du reste!"
+
+
+msgid "Jump to top"
+msgstr "Aller en haut de page"
+
+
+msgid "Recomendations"
+msgstr "recommendations"
+
+
+msgid "Forgot Password"
+msgstr "Mot de passe oublié"
+
+msgid "Forgot your password? Enter your email address to reset it."
+msgstr "Mot de passe oublié? Entrez votre adresse email pour le réinitialiser."
+
+msgid "Reset Password"
+msgstr "réinitialiser le mot de"
+
+msgid "Image Upload"
+msgstr "image Télécharger"
+
+msgid "Video"
+msgstr "vidéo"
+
+msgid "Video Url:"
+msgstr "URL de la vidéo:"
+
+msgid "Color List:"
+msgstr "Liste des couleurs:"
+
+msgid "Upload Photos:"
+msgstr "Télécharger des photos:"
+
+msgid "Please choose Color For Seprete With Comma ( , )"
+msgstr "S'il vous plaît choisir la couleur pour Seprete par une virgule (,)"
+
+msgid "Not Mantatory Field"
+msgstr "Non Champ Mantatory"
+
+msgid "More Informations"
+msgstr "plus d'infos"
+
+msgid "Select gender"
+msgstr "Choisissez le sexe"
+
+msgid "Ready to ship in"
+msgstr "Prêt à envoyer dans"
+
+msgid "business day"
+msgstr "jour ouvrable"
+
+msgid "business days"
+msgstr "jours ouvrables"
+
+msgid "weeks"
+msgstr "semaines"
+
+msgid "Custom range"
+msgstr "Gamme personnalisée"
+
+msgid "From..."
+msgstr "De ..."
+
+msgid "To..."
+msgstr "Pour ..."
+
+msgid "Product sizes"
+msgstr "Les tailles du produit"
+
+msgid "Shipping countries"
+msgstr "Expédition pays"
+
+msgid "Select a location"
+msgstr "Choisissez un emplacement"
+
+msgid "Everywhere else"
+msgstr "partout ailleurs"
+
+msgid "Sets the shipping costs for EVERY country not covered by country specific shipping costs. This is optional."
+msgstr "Définit les frais de port pour tous les pays ne sont pas couverts par les frais d'expédition spécifiques à chaque pays. Cette option est facultative."
+
+msgid "Commission Details"
+msgstr "Détails de la Commission"
+
+
+msgid "Commission"
+msgstr "commission"
+
+msgid "Ships Details"
+msgstr "Expédié détails"
+
+msgid "Shoes or T-shirts(optional)"
+msgstr "Chaussures ou T-shirts (facultatif)"
+
+msgid "Cost"
+msgstr "coût"
+
+msgid "commision details"
+msgstr "les détails de l'Commision"
+
+msgid "Must enter the details separate comma"
+msgstr "Doit entrer dans les détails des virgules séparé"
+
+msgid "s(,) Example:M=4,L=6,XL=10"
+msgstr "s (,) Exemple: M = 4, L = 6, XL = 10"
+
+msgid "View Details"
+msgstr "Voir les détails"
+
+msgid "Mark Received"
+msgstr "note reçue"
+
+msgid "Enter the Full Name"
+msgstr "Entrez le nom complet"
+
+msgid "Enter the Address"
+msgstr "Saisissez l'adresse"
+
+msgid "Note: Product can be shipped to the listed country only"
+msgstr "Remarque: Le produit peut être expédié dans le pays cité ne"
+
+msgid "Product can be shipped only to the listed countries"
+msgstr "Le produit peut être expédié uniquement pour les pays énumérés"
+
+msgid "Select The Country"
+msgstr "Sélectionnez le pays"
+
+msgid "Enter the State"
+msgstr "Entrez l'État"
+
+msgid "Enter the City"
+msgstr "Entrez la ville"
+
+msgid "Enter the Zipcode"
+msgstr "Entrez le Code Postal"
+
+msgid "Enter the Telephone number"
+msgstr "Entrez le numéro de téléphone"
+
+
+msgid "Add Your Fashion on this product"
+msgstr "Ajoutez votre mode sur ce produit"
+
+msgid "Group gift summary"
+msgstr "Groupe résumé cadeau"
+
+msgid "Group Gift Total"
+msgstr "Gift Group totale"
+
+msgid "This group gift will be valid for 7 days."
+msgstr "Ce cadeau de groupe sera valable pendant 7 jours."
+
+msgid "Only"
+msgstr "seulement"
+
+msgid "available"
+msgstr "disponible"
+
+msgid "Reviews"
+msgstr "commentaires"
+
+msgid "A fun and easy way to give gifts to your friends."
+msgstr "Une façon amusante et facile de donner des cadeaux à vos amis."
+
+msgid "Pick any item, contribute any amount. You"
+msgstr "Choisissez n'importe quel article, verser tout montant. vous"
+
+msgid "re only charged if the group gift is successful."
+msgstr "re ne chargé si le cadeau de groupe est réussie."
+
+
+msgid "Added"
+msgstr "ajouté"
+
+msgid "Use this link to share on Twitter, Facebook or in an Email."
+msgstr "Utilisez ce lien pour partager sur Twitter, Facebook ou dans un e-mail."
+
+
+msgid "Invite your friends and earn credits when they"
+msgstr "Invitez vos amis et gagnez des crédits quand ils"
+
+msgid "from your social networks"
+msgstr "de vos réseaux sociaux"
+
+msgid "Google+"
+msgstr "Google+"
+
+msgid "t share your contacts with anybody or email anyone without your consent."
+msgstr "t partagez vos contacts avec qui que ce soit ou par courriel sans votre consentement."
+
+msgid "Referral link was copied to clipboard."
+msgstr "Lien de parrainage a été copié dans le presse-papiers."
+
+msgid "Earn more credits by sharing your link with friends on social networks"
+msgstr "Gagner plus de crédits en partageant votre lien avec vos amis sur les réseaux sociaux"
+
+msgid "Invite your friends to Fancy via email"
+msgstr "Invitez vos amis à Fantaisie par e-mail"
+
+msgid "Enter your friends email address"
+msgstr "Entrez votre adresse e-mail des amis"
+
+msgid "Add a personal note (optional)"
+msgstr "Ajouter une note personnelle (facultatif)"
+
+msgid "You will be rewarded with"
+msgstr "Vous serez récompensé avec"
+
+msgid "if your friend signs up and makes a purchase within 60 days"
+msgstr "si votre ami s'inscrit et fait un achat dans les 60 jours"
+
+msgid "Welcome to Markit!"
+msgstr "Bienvenue à Markit!"
+
+msgid "Join Markit today"
+msgstr "Rejoignez Markit aujourd'hui"
+
+msgid "Sign in to Markit"
+msgstr "Identifiez-vous pour Markit"
+
+msgid "More Actions"
+msgstr "plus de possibilités"
+
+
+msgid "Add something favorite"
+msgstr "Ajouter quelque chose de favori"
+
+
+msgid "Following none"
+msgstr "Suite aucun"
+
+msgid "Follow someone"
+msgstr "suivre quelqu'un"
+
+msgid "Add something"
+msgstr "Ajouter quelque chose"
+
+msgid "positive"
+msgstr "positif"
+
+msgid "Based on"
+msgstr "basé sur"
+
+msgid "ratings"
+msgstr "notes"
+
+msgid "No body follows"
+msgstr "Pas de corps suit"
+
+msgid "ask  someone to follow"
+msgstr "demander à quelqu'un de suivre"
+
+msgid "You haven’t added any shipping address yet"
+msgstr "Vous n'avez pas encore ajouté une adresse d'expédition"
+
+msgid "Contributions"
+msgstr "contributions"
+
+msgid "This group gift will be delivered after the successful contribution from everyone"
+msgstr "Ce cadeau de groupe sera livré après la contribution réussie de tout le monde"
+
+msgid "Total contributors"
+msgstr "Nombre de contributeurs"
+
+msgid "This group gift must receive all contributions by"
+msgstr "Ce cadeau de groupe doit recevoir toutes les contributions"
+
+
+msgid "Unsuccessful gift will be refunded"
+msgstr "Échec cadeau sera remboursé"
+
+
+msgid "d by"
+msgstr "j en"
+
+
+msgid "Group Gift History"
+msgstr "Groupe Histoire cadeau"
+
+
+msgid "Group Gift Lists"
+msgstr "Listes de cadeaux de groupe"
+
+msgid "Start date"
+msgstr "Date de début"
+
+msgid "End date"
+msgstr "Date de fin"
+
+msgid "Contribution"
+msgstr "contribution"
+
+msgid "No Purchase Found"
+msgstr "Aucun achat Trouvé"
+
+msgid "New password,"
+msgstr "Nouveau mot de passe,"
+
+msgid "at least 6 characters"
+msgstr "au moins 6 caractères"
+
+msgid "Confirm your new password"
+msgstr "Confirmez votre nouveau mot de passe"
+
+msgid "You havn’t invited anyone yet."
+msgstr "U havn't nog uitgenodigd iedereen."
+
+msgid "Invite friends"
+msgstr "vrienden uitnodigen"
+
+msgid "Send Gift Card"
+msgstr "Stuur Gift Card"
+
+msgid "Redeem a Gift Card"
+msgstr "Inwisselen een Gift Card"
+
+msgid "Proceed to Checkout"
+msgstr "Ga verder naar de kassa"
+
+msgid "Cart Empty"
+msgstr "Winkelwagen is leeg"
+
+
+
+
+
+
+
+
+
